@@ -8,3 +8,4 @@
 
        pip install -r requirements.txt
        
+## create .evn file to store api key
