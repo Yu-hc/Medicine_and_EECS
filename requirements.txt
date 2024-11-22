@@ -3,3 +3,6 @@ openai
 pydantic
 google.generativeai
 python-dotenv
+obonet
+inflect
+matplotlib
