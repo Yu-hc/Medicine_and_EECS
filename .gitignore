@@ -1,4 +1,6 @@
 ./_pycache_/
 .env
 MedandEECS_env/
-score.zip
+.zip
+.DS_Store
+score_12:2.zip
