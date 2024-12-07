@@ -1,0 +1,21 @@
+,Unnamed: 0,simuround,tissue,noise,marker,manual_annotation,manual_CLname,manual_CLID,gpt-4o-2024-08-06_annotation,gpt-4o-2024-08-06_CLID,RAG_annotation,RAG_aggrement_modified,RAG_aggrement_modified_new
+0,2500,5,Lung,1.0,"GENE39,CD79A,MS4A1,TNFRSF13C,IGHM,VPREB3,TNFRSF13B,BLK,LINC01781,CD19,PAX5",b cell,B cell,CL:0000236,B cells,CL:0000236,B cell,0,1.0000
+1,2501,5,Lung,1.0,"GENE67,PRR4,PRB3,TCN1,C6orf58,LPO,TTYH1,LINC01829,SLC5A1,PRB1,ANO1",serous cell of epithelium of bronchus,serous cell of epithelium of bronchus,CL:1000331,Serous cells,CL:0000313,goblet cell,-1,0.3333
+2,2502,5,Lung,1.0,"FGL2,MS4A6A,CD163,MAFB,CSF1R,FCGR3A,AIF1,RNASE6,LST1,HCLS1,GENE15",non-classical monocyte,non-classical monocyte,CL:0000875,Macrophages,CL:0000235,nonclassical monocyte,1,0.8000
+3,2503,5,Lung,1.0,"FCN3,MT1M,TIMP3,RAMP2,SLC6A4,VWF,CLDN5,FAM107A,CALCRL,LRRC32,GENE17",capillary endothelial cell,capillary endothelial cell,CL:0002144,Endothelial cells,CL:0000115,endothelial cell,2,0.6000
+4,2504,5,Lung,1.0,"GENE23,EDNRB,CLDN5,IL1RL1,CA4,EMCN,GNG11,TIMP3,HPGD,SPARCL1,RAMP2",capillary aerocyte,,,Endothelial cells,CL:0000115,unknown cell type,-1,0.1818
+5,2505,5,Lung,1.0,"RTKN2,SCEL,NTM,MS4A15,NCKAP5,PKDCC,ITLN2,UPK3B,MYRF,ST6GALNAC5,GENE41",type i pneumocyte,type I pneumocyte,CL:0002062,Basal cells,CL:0000646,unknown cell types,-1,-1
+6,2506,5,Lung,1.0,"ACKR1,VWF,C7,SPARCL1,IGFBP7,RAMP3,TIMP3,PRSS23,LIFR,CLU,GENE76",vein endothelial cell,vein endothelial cell,CL:0002543,Endothelial cells,CL:0000115,lung microvascular endothelial cell,-1,0.6250
+7,2507,5,Lung,1.0,"DCN,LUM,ADH1B,MGP,FBLN1,C1S,MFAP4,RARRES2,C7,PTGDS,GENE72",alveolar fibroblast,,,Fibroblasts,CL:0000057,fibroblast,2,0.6667
+8,2508,5,Lung,1.0,"CCL21,MMRN1,PROX1,SEMA3D,FOXC2,SCN3B,GPR182,RELN,HOXD9,STAB2,GENE53",endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,Lymphatic endothelial cells,CL:0002138,lymphatic endothelial cell,0,1.0000
+9,2509,5,Lung,1.0,"GENE99,MYH11,PPP1R14A,ACTG2,CRYAB,DES,LMOD1,CNN1,PLAC9,CARMN,PLN",bronchial smooth muscle cell,bronchial smooth muscle cell,CL:0002598,Smooth muscle cells,CL:0000192,Answer Not Found,-1,0.2308
+10,2510,5,Lung,1.0,"AL139020.1,PLD4,MZB1,LILRA4,SCT,SPIB,CLEC4C,LAMP5,FAM129C,AL357143.1,GENE54",plasmacytoid dendritic cell,plasmacytoid dendritic cell,CL:0000784,Plasmacytoid Dendritic Cells,CL:0000784,nonclassical monocyte,-1,0.5714
+11,2511,5,Lung,1.0,"SCGB3A2,CYP2B7P,CEACAM6,WFDC2,FOLR1,GPRC5A,NEDD4L,PIGR,ELF3,SFTPB,GENE69",club cell,club cell,CL:0000158,Club Cells,CL:0000158,"pulmonary alveolar type 2 cell, club cell",-1,0.5455
+12,2512,5,Lung,1.0,"GENE96,ACKR1,SPARCL1,VWF,PLVAP,IGFBP7,NPDC1,CLDN5,LIFR,C7,CLU",lung microvascular endothelial cell,lung microvascular endothelial cell,CL:2000016,Endothelial Cells,CL:0000115,other cell type or mixture,-1,0.2222
+13,2513,5,Lung,1.0,"PPP1R14A,CCN5,BGN,MYH11,PDGFRB,COX4I2,C2orf40,PRELP,LMOD1,GJA4,GENE10",vascular associated smooth muscle cell,vascular associated smooth muscle cell,CL:0000359,Smooth Muscle Cells,CL:0000192,endothelial cell,6,0.3333
+14,2514,5,Lung,1.0,"GENE99,AC005821.1,LRRC38,MKRN9P,KCTD8,RSPO1,GPR1,SYT4,PLPPR4,LINC01902,FABP7",myofibroblast cell,myofibroblast cell,CL:0000186,Fibroblast Cells,CL:0000057,unknown,-1,0.4000
+15,2515,5,Lung,1.0,"GENE75,COX4I2,TPM2,BGN,PDGFRB,HIGD1B,PPP1R14A,INMT,KCNK3,RGN,NDUFA4L2",pericyte cell,pericyte,CL:0000669,Pericytes,CL:0000669,endothelial cell of artery,-1,0.2857
+16,2516,5,Lung,1.0,"ITLN1,PRG4,HAS1,CPB1,BCHE,VIPR2,BNC1,SYT4,ROR2,RSPO1,GENE39",mesothelial cell,mesothelial cell,CL:0000077,Goblet Cells,CL:0000160,unknown cell type,-1,0.3333
+17,2517,5,Lung,1.0,"AC009269.2,SCN7A,BMP5,AL135910.1,SGIP1,CARMN,CACNA1C,COL1A2,ABCA6,TARID,GENE74",fibroblast,fibroblast,CL:0000057,Neuronal Cells,CL:0000006,Unknown Cell Type,-1,0.2500
+18,2518,5,Lung,1.0,"GENE71,FCN1,RNASE2,CD300E,VCAN,FGL2,LILRB2,MPEG1,CORO1A,LILRA1,AIF1",intermediate monocyte,intermediate monocyte,CL:0002393,Monocytes,CL:0000576,monocyte,1,0.8000
+19,2519,5,Lung,1.0,"ASCL3,CEL,HEPACAM2,ATP6V1G3,CLCNKB,CLNK,LINC01187,TMPRSS11E,PROX1,DGKI,GENE1",pulmonary ionocyte,pulmonary ionocyte,CL:0017000,Ionocytes,CL:0005006,goblet cell,-1,0.5000

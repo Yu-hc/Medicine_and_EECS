@@ -1,0 +1,501 @@
+,tissue,simuround,subset,marker,manual_annotation,manual_CLname,manual_CLID,manual_broadtype,gpt-4o-2024-08-06_Clname,gpt-4o-2024-08-06_CLID,RAG_annotation
+1000,Lung,2,1.0,"SPARCL1,C7,IGFBP7,LIFR,PLVAP,ACKR1,VWF,NPDC1,CLDN5,CLU",lung microvascular endothelial cell,lung microvascular endothelial cell,CL:2000016,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1001,Lung,2,1.0,"COX4I2,MYH11,CCN5,PDGFRB,PPP1R14A,LMOD1,PRELP,BGN,GJA4,C2orf40",vascular associated smooth muscle cell,vascular associated smooth muscle cell,CL:0000359,muscle cell,smooth muscle cell,CL:0000192,pulmonary vascular smooth muscle cell
+1002,Lung,2,1.0,"LINC01902,AC005821.1,GPR1,LRRC38,RSPO1,MKRN9P,FABP7,PLPPR4,KCTD8,SYT4",myofibroblast cell,myofibroblast cell,CL:0000186,myofibroblast cell,epithelial cell,CL:0000066,pulmonary alveolar type 2 cell
+1003,Lung,2,1.0,"KCNK3,PDGFRB,RGN,PPP1R14A,BGN,TPM2,HIGD1B,INMT,COX4I2,NDUFA4L2",pericyte cell,pericyte,CL:0000669,pericyte,vascular associated smooth muscle cell,CL:0000359,pulmonary artery smooth muscle cell
+1004,Lung,2,1.0,"ITLN1,ROR2,RSPO1,PRG4,VIPR2,CPB1,BNC1,SYT4,HAS1,BCHE",mesothelial cell,mesothelial cell,CL:0000077,epithelial cell,epithelial cell,CL:0000066,unknown cell type
+1005,Lung,2,1.0,"SGIP1,SCN7A,COL1A2,BMP5,CARMN,AL135910.1,TARID,ABCA6,CACNA1C,AC009269.2",fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,unknown
+1006,Lung,2,1.0,"VCAN,AIF1,FCN1,RNASE2,LILRA1,MPEG1,LILRB2,FGL2,CD300E,CORO1A",intermediate monocyte,intermediate monocyte,CL:0002393,macrophage/monocyte,macrophage,CL:0000235,nonclassical monocyte
+1007,Lung,2,1.0,"CEL,LINC01187,HEPACAM2,ASCL3,CLNK,PROX1,DGKI,ATP6V1G3,TMPRSS11E,CLCNKB",pulmonary ionocyte,pulmonary ionocyte,CL:0017000,epithelial cell,epithelial cell,CL:0000066,unknown
+1008,Lung,3,0.25,"EMP2,RTKN2",Alveolar Epithelial Type 1,type I pneumocyte,CL:0002062,epithelial cell,endothelial cell,CL:0000115,fibroblast
+1009,Lung,3,0.25,"VPREB3,BANK1",B,B cell,CL:0000236,b cell,b cell,CL:0000236,b cell
+1010,Lung,3,0.25,"CLDN1,DST",Basal,basal cell,CL:0000646,stem cell,epithelial cell,CL:0000066,pulmonary epithelial cell
+1011,Lung,3,0.25,"VCAN,S100A9",CD14+ Monocyte,CD14-positive monocyte,CL:0001054,macrophage/monocyte,dendritic cell,CL:0000451,neutrophil
+1012,Lung,3,0.25,"LEF1,CD6",CD4 T,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell,lymphocyte,CL:0000542,Unknown
+1013,Lung,3,0.25,"RSPH1,CAPS",Ciliated,ciliated cell,CL:0000064,ciliated cell,ciliated cell,CL:0000064,goblet cell
+1014,Lung,3,0.25,"HLA-DPB1,HLA-DQA1",Dendritic,dendritic cell,CL:0000451,dendritic cell,dendritic cell,CL:0000451,macrophage
+1015,Lung,3,0.25,"C1S,DCN",Fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,pulmonary alveolar type 2 cell
+1016,Lung,3,0.25,"TIMP3,TBX1",Lymphatic,,,immune cell,endothelial cell,CL:0000115,mesenchymal cell
+1017,Lung,3,0.25,"C1QB,GPD1",Macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,lipofibroblast
+1018,Lung,3,0.25,"SPON2,GNLY",Natural Killer,natural killer cell,CL:0000623,t/nk cell,natural killer cell,CL:0000623,natural killer T cell
+1019,Lung,3,0.25,"MANF,TNFRSF17",Plasma,plasma cell,CL:0000786,b cell,plasma cell,CL:0000786,unknown cell type
+1020,Lung,3,0.25,"SFTPA1,SFTPB",Alveolar Epithelial Type 2,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar epithelial cell,CL:0000322,alveolar type II cell
+1021,Lung,3,0.25,"KIT,TPSAB1",Basophil/Mast,"basophil,mast cell","CL:0000767,CL:0000097",granulocyte,mast cell,CL:0000097,mast cell
+1022,Lung,3,0.25,"SAT1,FCN1",CD16+ Monocyte,,,macrophage/monocyte,macrophage,CL:0000235,nonclassical monocyte
+1023,Lung,3,0.25,"CDC42EP1,CDH5",Capillary,,,blood vessel cell,endothelial cell,CL:0000115,endothelial cell
+1024,Lung,3,0.25,"RPS27,RPL34",CD8 T,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell,epithelial cell,CL:0000066,unknown
+1025,Lung,3,0.25,"WFDC2,CYB5A",Club,club cell,CL:0000158,epithelial cell,epithelial cell,CL:0000066,unknown
+1026,Lung,3,0.25,"COL3A1,ITGBL1",Myofibroblast,myofibroblast cell,CL:0000186,myofibroblast cell,fibroblast,CL:0000057,fibroblast
+1027,Lung,3,0.25,"PLD4,NPC2",Plasmacytoid Dendritic,plasmacytoid dendritic cell,CL:0000784,dendritic cell,alveolar macrophage,CL:0000583,pulmonary alveolar type 2 cell
+1028,Lung,3,0.25,"TYMS,KPNA2",Proliferating Macrophage,,,macrophage/monocyte,cycling B cell,CL:4033068,proliferating cell
+1029,Lung,3,0.25,"UBE2C,SMC4",Proliferating NK/T,,,t/nk cell,cycling B cell,CL:4033068,proliferating cell
+1030,Lung,3,0.25,"SPARCL1,SPRY1",Bronchial Vessel,,,bronchial cell,endothelial cell,CL:0000115,unknown
+1031,Lung,3,0.25,"SCGB1A1,SCGB3A1",Mucous,,,mucosal cell,club cell,CL:0000158,club cell
+1032,Lung,3,0.25,"LIFR,PRSS23",Vein,,,blood vessel cell,pulmonary alveolar type 2 cell,CL:0002063,unknown cell type
+1033,Lung,3,0.25,"LAMB1,CALD1",Pericyte,pericyte,CL:0000669,pericyte,fibroblast,CL:0000057,stromal cell
+1034,Lung,3,0.25,"MYH11,MYL9",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1035,Lung,3,0.25,"BMX,ARGLU1",Artery,,,blood vessel cell,vascular associated smooth muscle cell,CL:0000359,unknown
+1036,Lung,3,0.25,"SOSTDC1,EMCN",Capillary Aerocyte,,,epithelial cell,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell
+1037,Lung,3,0.25,"IPO7,ACVRL1",Capillary Intermediate,,,blood vessel cell,endothelial cell of vascular tree,CL:0002139,unknown cell type
+1038,Lung,3,0.25,"MEDAG,HAS1",Lipofibroblast,alveolar type 1 fibroblast cell,CL:4028004,fibroblast,adipocyte,CL:0000136,fibroblast
+1039,Lung,3,0.25,"ITLN1,MGARP",Mesothelial,mesothelial cell,CL:0000077,epithelial cell,pulmonary alveolar type 1 cell,CL:0002062,unknown
+1040,Lung,3,0.25,"TMEM40,GP6",Platelet/Megakaryocyte,"platelet,megakaryocyte","CL:0000233,CL:0000556","platelet,megakaryocyte",endothelial cell,CL:0000115,unidentified cell type
+1041,Lung,3,0.25,"S100A6,GNLY",Natural Killer T,,,t/nk cell,natural killer cell,CL:0000623,cell_type_name
+1042,Lung,3,0.25,"CNN1,FAM150A",Fibromyocyte,,,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1043,Lung,3,0.25,"FAM3D,COX5A",Goblet,goblet cell,CL:0000160,epithelial cell,epithelial cell,CL:0000066,pulmonary alveolar type 2 cell
+1044,Lung,3,0.25,"BSND,MFSD6L",Ionocyte,ionocyte,CL:0005006,epithelial cell,ionocyte,CL:0005006,unknown
+1045,Lung,3,0.25,"NENF,CPE",Neuroendocrine,neuroendocrine cell,CL:0000165,epithelial cell,neuroendocrine cell,CL:0000165,unknown
+1046,Lung,3,0.25,"PRH2,PRB4",Serous,serous secreting cell,CL:0000313,secretory cell,goblet cell,CL:0000160,unknown
+1047,Lung,3,0.25,"CTSZ,LAPTM5",Macrophages,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,unknown cell type
+1048,Lung,3,0.25,"CD7,CCL5",Innate lymphoid cell NK,natural killer cell,CL:0000623,t/nk cell,t cell,CL:0000084,unknown_or_other_cell_type
+1049,Lung,3,0.25,"SFTPD,MUC1",AT2,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar epithelial cell,CL:0000322,alveolar epithelial type II cells
+1050,Lung,3,0.25,"MGP,ACKR1",EC venous,vein endothelial cell,CL:0002543,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1051,Lung,3,0.25,"CD3E,CCL5",T cell lineage,T cell,CL:0000084,t/nk cell,t cell,CL:0000084,T-cell
+1052,Lung,3,0.25,"SPARCL1,CLDN5",EC arterial,endothelial cell of artery,CL:1000413,endothelial cell,endothelial cell,CL:0000115,lung endothelial cell
+1053,Lung,3,0.25,"MGP,LUM",Fibroblasts,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,fibroblast
+1054,Lung,3,0.25,"AGER,CAV1",AT1,type I pneumocyte,CL:0002062,epithelial cell,pulmonary alveolar type 1 cell,CL:0002062,pulmonary alveolar type 1 cell
+1055,Lung,3,0.25,"TMEM231,C11orf97",Multiciliated lineage,multi-ciliated epithelial cell,CL:0005012,epithelial cell,ciliated epithelial cell,CL:0000067,unknown
+1056,Lung,3,0.25,"IGHA1,LTB",B cell lineage,B cell,CL:0000236,b cell,b cell,CL:0000236,plasma cell
+1057,Lung,3,0.25,"WFDC2,MUC1",Secretory,secretory cell,CL:0000151,secretory cell,fallopian tube secretory epithelial cell,CL:4030006,pulmonary alveolar type 2 cell
+1058,Lung,3,0.25,"COTL1,CD14",Monocytes,monocyte,CL:0000576,macrophage/monocyte,macrophage,CL:0000235,monocyte
+1059,Lung,3,0.25,"MARCKSL1,SEC11C",Submucosal Secretory,,,secretory cell,epithelial cell,CL:0000066,unknown
+1060,Lung,3,0.25,"IFI27,CDH5",EC capillary,capillary endothelial cell,CL:0002144,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1061,Lung,3,0.25,"CLDN5,RAMP2",Lymphatic EC mature,,,endothelial cell,endothelial cell,CL:0000115,capillary endothelial cell
+1062,Lung,3,0.25,"SDPR,TFF3",Lymphatic EC differentiating,,,endothelial cell,club cell,CL:0000158,goblet cell
+1063,Lung,3,0.25,"HLA-DQB1,HLA-DMA",Dendritic cells,dendritic cell,CL:0000451,dendritic cell,professional antigen presenting cell,CL:0000145,unknown cell type
+1064,Lung,3,0.25,"CTGF,MT1X",Myofibroblasts,myofibroblast cell,CL:0000186,myofibroblast cell,fibroblast,CL:0000057,pulmonary alveolar type 2 cell
+1065,Lung,3,0.25,"HPGDS,KIT",Mast cells,mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1066,Lung,3,0.25,"LMOD1,FLNA",Fibromyocytes,,,muscle cell,smooth muscle cell,CL:0000192,pulmonary muscle cell
+1067,Lung,3,0.25,"EID1,ARPC1A",Lymphatic EC proliferating,,,endothelial cell,epithelial cell,CL:0000066,unknown
+1068,Lung,3,0.25,"PKHD1L1,TSHZ2",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,ciliated epithelial cell,CL:0000067,unknown cell type
+1069,Lung,3,0.25,"LIMCH1,NCKAP5",Epithelial cell (alveolar type I),type I pneumocyte,CL:0002062,epithelial cell,neuron associated cell,CL:0000095,unknown cell type
+1070,Lung,3,0.25,"LRRK2,SFTPB",Epithelial cell (alveolar type II),type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar epithelial cell
+1071,Lung,3,0.25,"XPR1,GLIS3",Epithelial cell (basal),basal cell,CL:0000646,stem cell,pulmonary artery endothelial cell,CL:1001568,pulmonary alveolar type 2 cell
+1072,Lung,3,0.25,"HYDIN,CFAP54",Epithelial cell (ciliated),ciliated epithelial cell,CL:0000067,epithelial cell,ciliated epithelial cell,CL:0000067,ciliated cell
+1073,Lung,3,0.25,"BMPR1B,MECOM",Epithelial cell (club),club cell,CL:0000158,epithelial cell,mesenchymal stem cell,CL:0000134,unidentified cell type
+1074,Lung,3,0.25,"CREB3L2,PDK1",Immune (B cell),B cell,CL:0000236,b cell,fibroblast,CL:0000057,unknown cell type
+1075,Lung,3,0.25,"FYN,SKAP1",Immune (NK cell),natural killer cell,CL:0000623,t/nk cell,T cell,CL:0000084,unknown
+1076,Lung,3,0.25,"FYN,PTPRC",Immune (T cell),T cell,CL:0000084,t/nk cell,T cell,CL:0000084,natural killer t cell
+1077,Lung,3,0.25,"ZEB2,TFRC",Immune (alveolar macrophage),alveolar macrophage,CL:0000583,macrophage/monocyte,macrophage,CL:0000235,"ZEB2,TFRC-expressing cell type"
+1078,Lung,3,0.25,"TPSB2,ARHGAP15",Immune (mast cell),mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,unspecified cell type
+1079,Lung,3,0.25,"LPP,EBF1",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell",fibroblast,CL:0000057,smooth muscle cell
+1080,Lung,3,0.25,"EGFL7,PECAM1",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1081,Lung,3,0.25,"ARHGAP6,RBMS3",Fibroblast,fibroblast,CL:0000057,fibroblast,smooth muscle cell,CL:0000192,fibroblast
+1082,Lung,3,0.25,"FKBP5,CD74",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte",dendritic cell,CL:0000451,unknown cell type
+1083,Lung,3,0.25,"EBF1,PLIN2",Adipocyte,fat cell,CL:0000136,fat cell,adipocyte,CL:0000136,lipofibroblast
+1084,Lung,3,0.25,HOPX,Alveolar Type I,type I pneumocyte,CL:0002062,epithelial cell,pulmonary alveolar type 1 cell,CL:0002062,type 1 alveolar cell
+1085,Lung,3,0.25,NKX2-1,Alveolar Type II,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,pulmonary alveolar type 2 cell
+1086,Lung,3,0.25,FAS,B cell_memory,memory B cell,CL:0000787,b cell,cell,CL:0000000,non-classical monocyte
+1087,Lung,3,0.25,"FAM92B,TUBA1A",Ciliated Epithelial,ciliated epithelial cell,CL:0000067,epithelial cell,ciliated epithelial cell,CL:0000067,unknown
+1088,Lung,3,0.25,SCGB1A1,Club Epithelial,club cell,CL:0000158,epithelial cell,club cell,CL:0000158,club cell
+1089,Lung,3,0.25,"CCN2,IGFBP3,FBN1,COL6A1,COL5A2,IL33",Fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,fibroblast
+1090,Lung,3,0.25,PROX1,Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,progenitor cell,CL:0011026,pulmonary alveolar type 2 cell
+1091,Lung,3,0.25,"CD163,MS4A6A,MS4A4A,CPM,CD36",Macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,monocyte-derived macrophage
+1092,Lung,3,0.25,TPSAB1,Mast Cell,mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1093,Lung,3,0.25,"ACTA2,PDGFRB",Pericyte,pericyte,CL:0000669,pericyte,pericyte,CL:0000669,pericyte
+1094,Lung,3,0.25,"ACTG2,SMTN,MYOCD",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1095,Lung,3,0.25,"PTPRC,CD3G,TRAC",T cell,T cell,CL:0000084,t/nk cell,t cell,CL:0000084,cd8+ t cell
+1096,Lung,3,0.25,"VWF,NOSTRIN",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell,endothelial cell,CL:0000115,unknown cell type
+1097,Lung,3,0.25,"SFTPB,SLC34A2",type ii pneumocyte,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar type II cell
+1098,Lung,3,0.25,"S100A12,MMP25",neutrophil,neutrophil,CL:0000775,granulocyte,neutrophil,CL:0000775,neutrophil
+1099,Lung,3,0.25,"CD3G,TRBC2","cd4-positive, alpha-beta t cell","CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell,t cell,CL:0000084,cd8+ mem/eff t cell
+1100,Lung,3,0.25,"CD3E,KLRD1","cd8-positive, alpha-beta t cell","CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell,cytotoxic t cell,CL:0000910,natural killer t cell
+1101,Lung,3,0.25,"KLRD1,KLRB1",nk cell,natural killer cell,CL:0000623,t/nk cell,natural killer cell,CL:0000623,natural killer t cell
+1102,Lung,3,0.25,"ADAMTS4,ZNF385D",bronchial vessel endothelial cell,,,endothelial cell,fibroblast,CL:0000057,unknown
+1103,Lung,3,0.25,"HSPB6,AC100803.2",smooth muscle cell,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,unknown
+1104,Lung,3,0.25,"C1R,IGFBP6",adventitial cell,adventitial cell,CL:0002503,adventitial cell,epithelial cell,CL:0000066,pulmonary alveolar type 2 cell
+1105,Lung,3,0.25,"MRC1,ACP5",macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,macrophage
+1106,Lung,3,0.25,"HPGDS,GATA2",basophil,basophil,CL:0000767,granulocyte,mast cell,CL:0000097,mast cell
+1107,Lung,3,0.25,"FCN1,COTL1",classical monocyte,classical monocyte,CL:0000860,macrophage/monocyte,monocyte,CL:0000576,monocyte
+1108,Lung,3,0.25,"SOX17,GJA5",endothelial cell of artery,endothelial cell of artery,CL:1000413,endothelial cell,endothelial cell,CL:0000115,capillary endothelial cell
+1109,Lung,3,0.25,"CAPS,RSPH1",lung ciliated cell,lung ciliated cell,CL:1000271,ciliated cell,ciliated cell,CL:0000064,ciliated epithelial cell
+1110,Lung,3,0.25,"CLEC5A,FCER1A",dendritic cell,dendritic cell,CL:0000451,dendritic cell,dendritic cell,CL:0000451,mast cell
+1111,Lung,3,0.25,"SCGB1A1,SERPINB3",respiratory goblet cell,respiratory goblet cell,CL:0002370,epithelial cell,club cell,CL:0000158,club cell
+1112,Lung,3,0.25,"IGFBP2,KRT17",basal cell,basal cell,CL:0000646,stem cell,basal cell,CL:0000646,Unknown
+1113,Lung,3,0.25,"IGHG2,JCHAIN",plasma cell,plasma cell,CL:0000786,b cell,plasma cell,CL:0000786,plasma cell
+1114,Lung,3,0.25,"BLK,CD19",b cell,B cell,CL:0000236,b cell,b cell,CL:0000236,unidentified_cell_type
+1115,Lung,3,0.25,"C6orf58,PRR4",serous cell of epithelium of bronchus,serous cell of epithelium of bronchus,CL:1000331,secretory cell,goblet cell,CL:0000160,unknown
+1116,Lung,3,0.25,"FCGR3A,LST1",non-classical monocyte,non-classical monocyte,CL:0000875,macrophage/monocyte,macrophage,CL:0000235,nonclassical monocyte
+1117,Lung,3,0.25,"LRRC32,VWF",capillary endothelial cell,capillary endothelial cell,CL:0002144,endothelial cell,endothelial cell,CL:0000115,not_in_database
+1118,Lung,3,0.25,"EDNRB,EMCN",capillary aerocyte,,,epithelial cell,endothelial cell,CL:0000115,unknown cell type
+1119,Lung,3,0.25,"NTM,MS4A15",type i pneumocyte,type I pneumocyte,CL:0002062,epithelial cell,neuronal receptor cell,CL:0000006,mast cell
+1120,Lung,3,0.25,"C7,TIMP3",vein endothelial cell,vein endothelial cell,CL:0002543,endothelial cell,mesenchymal cell,CL:0008019,smooth muscle cell
+1121,Lung,3,0.25,"FBLN1,PTGDS",alveolar fibroblast,,,fibroblast,fibroblast,CL:0000057,fibroblast
+1122,Lung,3,0.25,"PROX1,HOXD9",endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,endothelial cell of lymphatic vessel,CL:0002138,Unknown Cell Type
+1123,Lung,3,0.25,"CRYAB,LMOD1",bronchial smooth muscle cell,bronchial smooth muscle cell,CL:0002598,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1124,Lung,3,0.25,"CLEC4C,FAM129C",plasmacytoid dendritic cell,plasmacytoid dendritic cell,CL:0000784,dendritic cell,dendritic cell,CL:0000451,unknown
+1125,Lung,3,0.25,"WFDC2,PIGR",club cell,club cell,CL:0000158,epithelial cell,club cell,CL:0000158,pulmonary alveolar type 2 cell
+1126,Lung,3,0.25,"ACKR1,SPARCL1",lung microvascular endothelial cell,lung microvascular endothelial cell,CL:2000016,endothelial cell,endothelial cell,CL:0000115,vascular endothelial cell
+1127,Lung,3,0.25,"PDGFRB,MYH11",vascular associated smooth muscle cell,vascular associated smooth muscle cell,CL:0000359,muscle cell,pericyte,CL:0000669,pericyte
+1128,Lung,3,0.25,"SYT4,AC005821.1",myofibroblast cell,myofibroblast cell,CL:0000186,myofibroblast cell,neuron,CL:0000540,unknown
+1129,Lung,3,0.25,"PPP1R14A,INMT",pericyte cell,pericyte,CL:0000669,pericyte,smooth muscle cell,CL:0000192,unknown cell type
+1130,Lung,3,0.25,"PRG4,RSPO1",mesothelial cell,mesothelial cell,CL:0000077,epithelial cell,club cell,CL:0000158,goblet cell
+1131,Lung,3,0.25,"SCN7A,SGIP1",fibroblast,fibroblast,CL:0000057,fibroblast,neuroendocrine cell,CL:0000165,unknown cell type
+1132,Lung,3,0.25,"LILRA1,FGL2",intermediate monocyte,intermediate monocyte,CL:0002393,macrophage/monocyte,alveolar macrophage,CL:0000583,neutrophil
+1133,Lung,3,0.25,"ATP6V1G3,ASCL3",pulmonary ionocyte,pulmonary ionocyte,CL:0017000,epithelial cell,club cell,CL:0000158,unknown
+1134,Lung,3,0.5,"AGER,ARHGEF26,RTKN2,LAMA3,EMP2",Alveolar Epithelial Type 1,type I pneumocyte,CL:0002062,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar epithelial cell type 1 (AEC I)
+1135,Lung,3,0.5,"CD22,BANK1,SP140,BLK,CD79A",B,B cell,CL:0000236,b cell,b cell,CL:0000236,B cell
+1136,Lung,3,0.5,"PERP,KRT15,KRT5,DST,KRT17",Basal,basal cell,CL:0000646,stem cell,basal cell,CL:0000646,basal cell
+1137,Lung,3,0.5,"VCAN,S100A12,CSF3R,METTL9,CD99",CD14+ Monocyte,CD14-positive monocyte,CL:0001054,macrophage/monocyte,neutrophil,CL:0000775,neutrophil
+1138,Lung,3,0.5,"BCL11B,CD6,MAL,ITK,MALAT1",CD4 T,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell,t cell,CL:0000084,T-cell
+1139,Lung,3,0.5,"C20orf85,RSPH1,FAM92B,CDHR3,FANK1",Ciliated,ciliated cell,CL:0000064,ciliated cell,ciliated epithelial cell,CL:0000067,goblet cell
+1140,Lung,3,0.5,"HLA-DQA1,FPR3,CLEC10A,GPR183,MS4A6A",Dendritic,dendritic cell,CL:0000451,dendritic cell,dendritic cell,CL:0000451,nonclassical monocyte
+1141,Lung,3,0.5,"FBLN1,ABLIM1,DCN,C1R,CFD",Fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,fibroblast
+1142,Lung,3,0.5,"TFPI,PKHD1L1,PROX1,PPFIBP1,IGFBP7",Lymphatic,,,immune cell,endothelial cell of lymphatic vessel,CL:0002138,Unidentified Cell Type
+1143,Lung,3,0.5,"APOC1,VSIG4,C1QB,MARCO,OLR1",Macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,macrophage
+1144,Lung,3,0.5,"FCGR3A,NKG7,CD247,SPON2,PYHIN1",Natural Killer,natural killer cell,CL:0000623,t/nk cell,natural killer cell,CL:0000623,nonclassical monocyte
+1145,Lung,3,0.5,"SSR4,MANF,MZB1,POU2AF1,PRDX4",Plasma,plasma cell,CL:0000786,b cell,plasma cell,CL:0000786,plasma cell
+1146,Lung,3,0.5,"SFTPA2,SLC34A2,LAMP3,ABCA3,SFTPC",Alveolar Epithelial Type 2,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar type II cell
+1147,Lung,3,0.5,"CPA3,VWA5A,GATA2,CD44,GRAP2",Basophil/Mast,"basophil,mast cell","CL:0000767,CL:0000097",granulocyte,mast cell,CL:0000097,mast cell
+1148,Lung,3,0.5,"AIF1,IFITM2,LST1,COTL1,FCN1",CD16+ Monocyte,,,macrophage/monocyte,monocyte,CL:0000576,macrophage
+1149,Lung,3,0.5,"NOSTRIN,CD81,FLNB,BTNL9,CDH5",Capillary,,,blood vessel cell,endothelial cell,CL:0000115,fibroblast
+1150,Lung,3,0.5,"GZMH,GZMA,CCL5,RPS27,CD3D",CD8 T,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell,cytotoxic t cell,CL:0000910,T cell
+1151,Lung,3,0.5,"CEACAM6,PIGR,C16orf89,KIAA1324,CTSE",Club,club cell,CL:0000158,epithelial cell,epithelial cell,CL:0000066,goblet cell
+1152,Lung,3,0.5,"LTBP1,BGN,ITGBL1,COL1A2,ASPN",Myofibroblast,myofibroblast cell,CL:0000186,myofibroblast cell,fibroblast,CL:0000057,fibroblast
+1153,Lung,3,0.5,"NPC2,IRF4,IRF7,PLD4,GZMB",Plasmacytoid Dendritic,plasmacytoid dendritic cell,CL:0000784,dendritic cell,natural killer cell,CL:0000623,plasmacytoid dendritic cell
+1154,Lung,3,0.5,"STMN1,TPX2,H2AFZ,ANLN,NUSAP1",Proliferating Macrophage,,,macrophage/monocyte,cycling B cell,CL:4033068,proliferating cell
+1155,Lung,3,0.5,"H2AFV,KIF2C,AURKB,UBE2C,CENPF",Proliferating NK/T,,,t/nk cell,cycling B cell,CL:4033068,unknown cell type
+1156,Lung,3,0.5,"COL15A1,SPRY1,ZNF385D,EMCN,INHBB",Bronchial Vessel,,,bronchial cell,endothelial cell,CL:0000115,lipofibroblast
+1157,Lung,3,0.5,"SAA1,MUC5B,MSMB,SCGB3A1,WFDC2",Mucous,,,mucosal cell,secretory cell,CL:0000151,secretory epithelial cell
+1158,Lung,3,0.5,"PRSS23,CPE,PLA1A,SELP,PTPRB",Vein,,,blood vessel cell,endothelial cell,CL:0000115,megakaryocyte
+1159,Lung,3,0.5,"LAMC3,LAMB1,COL4A2,CHN1,CALD1",Pericyte,pericyte,CL:0000669,pericyte,mesenchymal cell,CL:0008019,fibroblast
+1160,Lung,3,0.5,"PLN,CNN1,CSRP1,MYL9,DES",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1161,Lung,3,0.5,"PTPRB,EPAS1,HEY1,BMX,FBLN5",Artery,,,blood vessel cell,endothelial cell,CL:0000115,endothelial cell
+1162,Lung,3,0.5,"APP,EMCN,EDNRB,CLDN5,CYP3A5",Capillary Aerocyte,,,epithelial cell,endothelial cell,CL:0000115,endothelial cell
+1163,Lung,3,0.5,"GALNT18,IPO7,EPAS1,SRSF11,WWTR1",Capillary Intermediate,,,blood vessel cell,mesenchymal cell,CL:0008019,unknown cell type
+1164,Lung,3,0.5,"FGF7,CPXM1,CCDC71L,MEDAG,OSR1",Lipofibroblast,alveolar type 1 fibroblast cell,CL:4028004,fibroblast,fibroblast,CL:0000057,lipofibroblast
+1165,Lung,3,0.5,"SLPI,DMKN,GALNT9,WT1,PRG4",Mesothelial,mesothelial cell,CL:0000077,epithelial cell,epithelial cell,CL:0000066,unknown cell type
+1166,Lung,3,0.5,"TMEM40,PF4,CABP5,TUBB1,ITGA2B",Platelet/Megakaryocyte,"platelet,megakaryocyte","CL:0000233,CL:0000556","platelet,megakaryocyte",platelet,CL:0000233,megakaryocyte
+1167,Lung,3,0.5,"CEBPB,GNLY,S100A6,CCL5,CTSW",Natural Killer T,,,t/nk cell,natural killer cell,CL:0000623,cell_type_name
+1168,Lung,3,0.5,"CLU,CSRP1,MET,FAM150A,IGF1",Fibromyocyte,,,muscle cell,smooth muscle cell,CL:0000192,fibroblast
+1169,Lung,3,0.5,"S100P,CLIC1,FAM3D,AGR2,COX5A",Goblet,goblet cell,CL:0000160,epithelial cell,epithelial cell,CL:0000066,pulmonary alveolar type 2 cell
+1170,Lung,3,0.5,"PHGR1,HEPACAM2,FOXI1,MFSD6L,ATP6V1B1",Ionocyte,ionocyte,CL:0005006,epithelial cell,renal intercalated cell,CL:0005010,undifferentiated cell
+1171,Lung,3,0.5,"SEC11C,CPE,PCSK1N,BEX1,PRDX2",Neuroendocrine,neuroendocrine cell,CL:0000165,epithelial cell,neuroendocrine cell,CL:0000165,unknown
+1172,Lung,3,0.5,"PHB,LYZ,PRH2,PRB4,PRB3",Serous,serous secreting cell,CL:0000313,secretory cell,serous secreting cell,CL:0000313,unknown cell type
+1173,Lung,3,0.5,"CTSZ,C1QB,FCER1G,C1QC,HLA-DRB1",Macrophages,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,macrophage
+1174,Lung,3,0.5,"CTSW,CCL4,PRF1,CCL5,GZMB",Innate lymphoid cell NK,natural killer cell,CL:0000623,t/nk cell,cytotoxic t cell,CL:0000910,cytotoxic T cell
+1175,Lung,3,0.5,"S100A14,MUC1,PEBP4,SFTA2,SLC34A2",AT2,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar epithelial cell,CL:0000322,serous cell
+1176,Lung,3,0.5,"ACKR1,MGP,CLEC14A,RAMP2,VWF",EC venous,vein endothelial cell,CL:0002543,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1177,Lung,3,0.5,"CORO1A,CD3D,CCL5,CD2,CD69",T cell lineage,T cell,CL:0000084,t/nk cell,t cell,CL:0000084,T lymphocyte
+1178,Lung,3,0.5,"TM4SF1,CRIP2,CLDN5,CLEC14A,SOX17",EC arterial,endothelial cell of artery,CL:1000413,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1179,Lung,3,0.5,"C1S,LUM,CALD1,BGN,DCN",Fibroblasts,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,fibroblast
+1180,Lung,3,0.5,"AGER,EMP2,TSPAN13,HOPX,SFTA2",AT1,type I pneumocyte,CL:0002062,epithelial cell,pulmonary alveolar type 1 cell,CL:0002062,alveolar type I cell
+1181,Lung,3,0.5,"CD24,C11orf97,C12orf75,TMEM231,RP11-356K23.1",Multiciliated lineage,multi-ciliated epithelial cell,CL:0005012,epithelial cell,club cell,CL:0000158,unknown
+1182,Lung,3,0.5,"CORO1A,ISG20,CD37,IGKC,CD79A",B cell lineage,B cell,CL:0000236,b cell,b cell,CL:0000236,natural killer t cell
+1183,Lung,3,0.5,"CXCL17,PIGR,TACSTD2,CP,MUC1",Secretory,secretory cell,CL:0000151,secretory cell,goblet cell,CL:0000160,pulmonary alveolar type 2 cell
+1184,Lung,3,0.5,"AIF1,LST1,VCAN,CD14,S100A8",Monocytes,monocyte,CL:0000576,macrophage/monocyte,macrophage,CL:0000235,monocyte
+1185,Lung,3,0.5,"CCL28,SELM,AZGP1,LTF,SEC11C",Submucosal Secretory,,,secretory cell,secretory cell,CL:0000151,goblet cell
+1186,Lung,3,0.5,"CLEC14A,CLDN5,CDH5,AQP1,IFI27",EC capillary,capillary endothelial cell,CL:0002144,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1187,Lung,3,0.5,"GNG11,CLDN5,CCL21,RAMP2,MMRN1",Lymphatic EC mature,,,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1188,Lung,3,0.5,"AKAP12,CLDN5,TIMP3,CCL21,TFPI",Lymphatic EC differentiating,,,endothelial cell,endothelial cell,CL:0000115,unknown
+1189,Lung,3,0.5,"HLA-DQB1,HLA-DMA,HLA-DRB1,HLA-DQA1,GPR183",Dendritic cells,dendritic cell,CL:0000451,dendritic cell,dendritic cell,CL:0000451,antigen-presenting cell
+1190,Lung,3,0.5,"IGFBP5,CYR61,CALD1,TPM2,MT1X",Myofibroblasts,myofibroblast cell,CL:0000186,myofibroblast cell,myofibroblast cell,CL:0000186,mesenchymal cell
+1191,Lung,3,0.5,"HPGDS,KIT,TPSAB1,CPA3,RGS13",Mast cells,mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1192,Lung,3,0.5,"TPM2,IGFBP7,LMOD1,SELM,FLNA",Fibromyocytes,,,muscle cell,smooth muscle cell,CL:0000192,fibroblast
+1193,Lung,3,0.5,"EID1,COX20,HMGN1,TUBB,MARCKS",Lymphatic EC proliferating,,,endothelial cell,epithelial cell,CL:0000066,unknown cell type
+1194,Lung,3,0.5,"ST6GALNAC3,LDB2,KALRN,FBXL7,PPFIBP1",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,neuronal receptor cell,CL:0000006,unknown or unidentified cell type
+1195,Lung,3,0.5,"NCKAP5,KHDRBS2,RAB11FIP1,LMO7,LIMCH1",Epithelial cell (alveolar type I),type I pneumocyte,CL:0002062,epithelial cell,neuronal receptor cell,CL:0000006,unknown cell type
+1196,Lung,3,0.5,"ABCA3,SFTPB,AUTS2,ERBB4,MACROD2",Epithelial cell (alveolar type II),type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar type II cell
+1197,Lung,3,0.5,"EYA2,TP63,GLIS3,KRT17,SSBP2",Epithelial cell (basal),basal cell,CL:0000646,stem cell,basal cell,CL:0000646,basal cell
+1198,Lung,3,0.5,"HYDIN,CFAP54,DNAH7,CDHR3,DNAH12",Epithelial cell (ciliated),ciliated epithelial cell,CL:0000067,epithelial cell,ciliated cell,CL:0000064,ciliated epithelial cell
+1199,Lung,3,0.5,"MACROD2,SCGB3A2,SFTPB,CDK14,BMPR1B",Epithelial cell (club),club cell,CL:0000158,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,pulmonary alveolar type 2 cell
+1200,Lung,3,0.5,"PLCG2,FBXW7,RALGPS2,CREB3L2,FCHSD2",Immune (B cell),B cell,CL:0000236,b cell,myeloid cell,CL:0000763,unknown
+1201,Lung,3,0.5,"FYN,SKAP1,PARP8,PIP4K2A,KLRD1",Immune (NK cell),natural killer cell,CL:0000623,t/nk cell,natural killer cell,CL:0000623,cd4+ mem/eff cell
+1202,Lung,3,0.5,"PARP8,BCL2,SYTL3,FYN,FKBP5",Immune (T cell),T cell,CL:0000084,t/nk cell,b cell,CL:0000236,unknown
+1203,Lung,3,0.5,"RNF149,GPCPD1,PPARG,SLC11A1,FMNL2",Immune (alveolar macrophage),alveolar macrophage,CL:0000583,macrophage/monocyte,macrophage,CL:0000235,unknown
+1204,Lung,3,0.5,"IL18R1,ARHGAP15,SLC24A3,TPSB2,SRGN",Immune (mast cell),mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1205,Lung,3,0.5,"TPM1,PRKG1,ACTA2,EBF1,CALD1",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell",smooth muscle cell,CL:0000192,smooth muscle cell
+1206,Lung,3,0.5,"PTPRM,CALCRL,TCF4,PTPRB,ST6GALNAC3",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell,endothelial cell,CL:0000115,not_found
+1207,Lung,3,0.5,"ROBO2,PLXDC2,RBMS3,SLIT2,PRKG1",Fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,capillary endothelial cell
+1208,Lung,3,0.5,"ZEB2,TBXAS1,CTSB,PLXDC2,CHST11",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte",fibroblast,CL:0000057,fibroblast
+1209,Lung,3,0.5,"PPARG,ACSL1,PLIN1,LPIN1,G0S2",Adipocyte,fat cell,CL:0000136,fat cell,adipocyte,CL:0000136,adipocyte
+1210,Lung,3,0.5,"AGER,PDPN",Alveolar Type I,type I pneumocyte,CL:0002062,epithelial cell,pulmonary alveolar type 1 cell,CL:0002062,alveolar type I epithelial cell
+1211,Lung,3,0.5,"SFTPC,SFTPB",Alveolar Type II,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar epithelial type II cell
+1212,Lung,3,0.5,"FAS,CR2",B cell_memory,memory B cell,CL:0000787,b cell,b cell,CL:0000236,unidentified
+1213,Lung,3,0.5,"HYDIN,FOXJ1,DNAI1,DNAH5",Ciliated Epithelial,ciliated epithelial cell,CL:0000067,epithelial cell,ciliated cell,CL:0000064,ciliated epithelial cell
+1214,Lung,3,0.5,"SCGB3A1,BPIFA1,MUC5B",Club Epithelial,club cell,CL:0000158,epithelial cell,secretory cell,CL:0000151,goblet cell
+1215,Lung,3,0.5,"NEGR1,HGF,IL6,IGFBP5,FBN1,IL33,SLIT2,FBLN1,COL1A2,COL6A6,COL6A1,COL5A2",Fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,fibroblast
+1216,Lung,3,0.5,"RELN,CCL21,PROX1",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,endothelial cell of lymphatic vessel,CL:0002138,myeloid dendritic cell
+1217,Lung,3,0.5,"CD68,PTPRC,RBPJ,CD36,MS4A6A,MR1,MRC1,MS4A4A,CPM,CD163",Macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,macrophage
+1218,Lung,3,0.5,"FCER1A,TPSAB1,KIT",Mast Cell,mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1219,Lung,3,0.5,"CSPG4,ANPEP,ACTA2,DES",Pericyte,pericyte,CL:0000669,pericyte,pericyte,CL:0000669,pericyte
+1220,Lung,3,0.5,"MYOCD,MYL9,PALLD,GUCY1B3,GUCY1A3,TAGLN,VCL",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1221,Lung,3,0.5,"TRAC,PTPRC,TRBC1,IL7R,SKAP1,CD69",T cell,T cell,CL:0000084,t/nk cell,t cell,CL:0000084,cd8+ mem/eff t cell
+1222,Lung,3,0.5,"NOSTRIN,CD300LG,LDB2,RAMP3,VWF",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1223,Lung,3,0.5,"NAPSA,SFTPA2,MUC1,PGC,SFTPB",type ii pneumocyte,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar epithelial type II cell
+1224,Lung,3,0.5,"MTND5P32,CXCR2,OLAH,MGAM,PROK2",neutrophil,neutrophil,CL:0000775,granulocyte,non-classical monocyte,CL:0000875,goblet cell
+1225,Lung,3,0.5,"TRAC,IL32,CD2,TRBC2,CXCR4","cd4-positive, alpha-beta t cell","CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell,t cell,CL:0000084,cd8+ t cell
+1226,Lung,3,0.5,"CCL4,CCL5,NKG7,GZMA,CD2","cd8-positive, alpha-beta t cell","CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell,cytotoxic t cell,CL:0000910,cd8+ t cell
+1227,Lung,3,0.5,"CST7,KLRF1,FGFBP2,GNLY,KLRB1",nk cell,natural killer cell,CL:0000623,t/nk cell,natural killer cell,CL:0000623,natural killer cell
+1228,Lung,3,0.5,"CCL14,SELE,RBP5,ZNF385D,NEURL1B",bronchial vessel endothelial cell,,,endothelial cell,fibroblast,CL:0000057,unknown
+1229,Lung,3,0.5,"ADRA2C,MYH11,HSPB6,ACTG2,FOXC2",smooth muscle cell,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1230,Lung,3,0.5,"MFAP5,MFAP4,FBLN1,PLA2G2A,MGP",adventitial cell,adventitial cell,CL:0002503,adventitial cell,fibroblast,CL:0000057,fibroblast
+1231,Lung,3,0.5,"C1QA,APOE,VSIG4,FABP4,APOC1",macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,alveolar macrophage
+1232,Lung,3,0.5,"MS4A2,KIT,CPA3,GATA2,VWA5A",basophil,basophil,CL:0000767,granulocyte,mast cell,CL:0000097,mast cell
+1233,Lung,3,0.5,"FCN1,S100A12,FGL2,COTL1,VSIR",classical monocyte,classical monocyte,CL:0000860,macrophage/monocyte,monocyte,CL:0000576,macrophage
+1234,Lung,3,0.5,"DKK2,PTPRB,GJA5,SERPINE2,MMRN2",endothelial cell of artery,endothelial cell of artery,CL:1000413,endothelial cell,endothelial cell,CL:0000115,endothelial cell of artery
+1235,Lung,3,0.5,"PIFO,C11orf88,C1orf194,TSPAN1,C9orf24",lung ciliated cell,lung ciliated cell,CL:1000271,ciliated cell,ciliated cell,CL:0000064,unidentified cell type
+1236,Lung,3,0.5,"FCGR2B,GPR183,CLEC10A,CLEC5A,CST7",dendritic cell,dendritic cell,CL:0000451,dendritic cell,dendritic cell,CL:0000451,eosinophil
+1237,Lung,3,0.5,"SERPINB3,CP,TFF3,SCGB1A1,TSPAN1",respiratory goblet cell,respiratory goblet cell,CL:0002370,epithelial cell,club cell,CL:0000158,club cell
+1238,Lung,3,0.5,"PERP,MIR205HG,ALDH3A1,IGFBP2,KRT19",basal cell,basal cell,CL:0000646,stem cell,epithelial cell,CL:0000066,Unknown Cell Type
+1239,Lung,3,0.5,"IGHG4,IGHA2,CD79A,TNFRSF17,IGHG2",plasma cell,plasma cell,CL:0000786,b cell,plasma cell,CL:0000786,plasma cell
+1240,Lung,3,0.5,"LINC01781,CD79A,MS4A1,IGHM,VPREB3",b cell,B cell,CL:0000236,b cell,b cell,CL:0000236,B cell
+1241,Lung,3,0.5,"PRR4,PRB1,SLC5A1,TTYH1,PRB3",serous cell of epithelium of bronchus,serous cell of epithelium of bronchus,CL:1000331,secretory cell,goblet cell,CL:0000160,unknown
+1242,Lung,3,0.5,"LST1,AIF1,HCLS1,FCGR3A,CD163",non-classical monocyte,non-classical monocyte,CL:0000875,macrophage/monocyte,macrophage,CL:0000235,nonclassical monocyte
+1243,Lung,3,0.5,"MT1M,TIMP3,FAM107A,LRRC32,SLC6A4",capillary endothelial cell,capillary endothelial cell,CL:0002144,endothelial cell,fibroblast,CL:0000057,fibroblast
+1244,Lung,3,0.5,"SPARCL1,RAMP2,CA4,CLDN5,IL1RL1",capillary aerocyte,,,epithelial cell,endothelial cell,CL:0000115,lung endothelial cell
+1245,Lung,3,0.5,"RTKN2,UPK3B,NCKAP5,PKDCC,ST6GALNAC5",type i pneumocyte,type I pneumocyte,CL:0002062,epithelial cell,cyanophore,CL:0000747,unknown
+1246,Lung,3,0.5,"LIFR,ACKR1,IGFBP7,RAMP3,PRSS23",vein endothelial cell,vein endothelial cell,CL:0002543,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1247,Lung,3,0.5,"DCN,MFAP4,RARRES2,C1S,PTGDS",alveolar fibroblast,,,fibroblast,fibroblast,CL:0000057,fibroblast
+1248,Lung,3,0.5,"SCN3B,SEMA3D,PROX1,GPR182,STAB2",endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,endothelial cell of lymphatic vessel,CL:0002138,unknown
+1249,Lung,3,0.5,"ACTG2,CRYAB,PLAC9,CNN1,PPP1R14A",bronchial smooth muscle cell,bronchial smooth muscle cell,CL:0002598,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1250,Lung,3,0.5,"LAMP5,FAM129C,LILRA4,SCT,PLD4",plasmacytoid dendritic cell,plasmacytoid dendritic cell,CL:0000784,dendritic cell,plasmacytoid dendritic cell,CL:0000784,neuroendocrine cell
+1251,Lung,3,0.5,"PIGR,GPRC5A,CEACAM6,SFTPB,FOLR1",club cell,club cell,CL:0000158,epithelial cell,club cell,CL:0000158,pulmonary alveolar type 2 cell
+1252,Lung,3,0.5,"CLDN5,C7,SPARCL1,NPDC1,VWF",lung microvascular endothelial cell,lung microvascular endothelial cell,CL:2000016,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1253,Lung,3,0.5,"PDGFRB,C2orf40,COX4I2,PPP1R14A,CCN5",vascular associated smooth muscle cell,vascular associated smooth muscle cell,CL:0000359,muscle cell,pericyte,CL:0000669,pericyte
+1254,Lung,3,0.5,"LRRC38,PLPPR4,AC005821.1,SYT4,MKRN9P",myofibroblast cell,myofibroblast cell,CL:0000186,myofibroblast cell,smooth muscle cell,CL:0000192,unknown cell type
+1255,Lung,3,0.5,"NDUFA4L2,BGN,HIGD1B,RGN,COX4I2",pericyte cell,pericyte,CL:0000669,pericyte,fibroblast,CL:0000057,unknown cell type
+1256,Lung,3,0.5,"CPB1,BCHE,ITLN1,VIPR2,ROR2",mesothelial cell,mesothelial cell,CL:0000077,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,unknown cell type
+1257,Lung,3,0.5,"SGIP1,AL135910.1,CARMN,BMP5,SCN7A",fibroblast,fibroblast,CL:0000057,fibroblast,mesothelial cell,CL:0000077,undefined_cell_type
+1258,Lung,3,0.5,"CD300E,MPEG1,FGL2,AIF1,FCN1",intermediate monocyte,intermediate monocyte,CL:0002393,macrophage/monocyte,macrophage,CL:0000235,nonclassical monocyte
+1259,Lung,3,0.5,"ASCL3,LINC01187,CLCNKB,ATP6V1G3,TMPRSS11E",pulmonary ionocyte,pulmonary ionocyte,CL:0017000,epithelial cell,epithelial cell,CL:0000066,goblet cell
+1260,Lung,3,0.75,"SPOCK2,LAMA3,GPRC5A,LMO7,DST,ARHGEF26,EMP2",Alveolar Epithelial Type 1,type I pneumocyte,CL:0002062,epithelial cell,epithelial cell,CL:0000066,pulmonary alveolar type 2 cell
+1261,Lung,3,0.75,"BLK,VPREB3,CD79A,BANK1,CD79B,LINC00926,CD22",B,B cell,CL:0000236,b cell,b cell,CL:0000236,B cell
+1262,Lung,3,0.75,"ITGA2,CLDN1,DST,S100A2,KRT19,FHL2,KRT5",Basal,basal cell,CL:0000646,stem cell,epithelial cell,CL:0000066,basal epithelial cell
+1263,Lung,3,0.75,"VCAN,CTSS,S100A9,CSF3R,FCN1,CD300E,S100A12",CD14+ Monocyte,CD14-positive monocyte,CL:0001054,macrophage/monocyte,macrophage,CL:0000235,nonclassical monocyte
+1264,Lung,3,0.75,"CD2,MAL,CD6,ITK,MALAT1,BCL11B,IL7R",CD4 T,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell,t cell,CL:0000084,T cells (possibly CD4+ T cells)
+1265,Lung,3,0.75,"CDHR3,ZMYND10,C20orf85,SNTN,CAPS,FANK1,FAM92B",Ciliated,ciliated cell,CL:0000064,ciliated cell,ciliated epithelial cell,CL:0000067,unknown cell type
+1266,Lung,3,0.75,"FPR3,RGS1,GPR183,FCGR2B,HLA-DMB,HLA-DPB1,CSF2RA",Dendritic,dendritic cell,CL:0000451,dendritic cell,dendritic cell,CL:0000451,macrophage
+1267,Lung,3,0.75,"LUM,SLIT2,ADH1B,C3,C1R,CFD,DCN",Fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,fibroblast
+1268,Lung,3,0.75,"TFF3,TIMP3,PPFIBP1,IGFBP7,MMRN1,TFPI,PKHD1L1",Lymphatic,,,immune cell,mesothelial cell,CL:0000077,endothelial cell
+1269,Lung,3,0.75,"C1QB,APOC1,ITGAX,GPD1,OLR1,MARCO,ACP5",Macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,macrophage
+1270,Lung,3,0.75,"CD247,PRF1,SPON2,FCGR3A,GZMB,PYHIN1,NKG7",Natural Killer,natural killer cell,CL:0000623,t/nk cell,cytotoxic t cell,CL:0000910,cd8+ mem/eff t cell
+1271,Lung,3,0.75,"TNFRSF17,MZB1,PRDX4,HSP90B1,XBP1,SEC11C,POU2AF1",Plasma,plasma cell,CL:0000786,b cell,plasma cell,CL:0000786,plasma cell
+1272,Lung,3,0.75,"SFTPB,SFTPD,ABCA3,LAMP3,SLC34A2,LPCAT1,NAPSA",Alveolar Epithelial Type 2,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar type II cell
+1273,Lung,3,0.75,"KIT,VWA5A,CD44,TPSAB1,HDC,HPGDS,GATA2",Basophil/Mast,"basophil,mast cell","CL:0000767,CL:0000097",granulocyte,mast cell,CL:0000097,mast cell
+1274,Lung,3,0.75,"LST1,RHOC,SAT1,AIF1,LILRB2,COTL1,RPS19",CD16+ Monocyte,,,macrophage/monocyte,macrophage,CL:0000235,nonclassical monocyte
+1275,Lung,3,0.75,"CDC42EP1,BTNL9,FLNB,RAMP3,EPAS1,CD81,FCN3",Capillary,,,blood vessel cell,fibroblast,CL:0000057,fibroblast
+1276,Lung,3,0.75,"CD3D,CD3G,GZMA,NKG7,CCL5,CD8A,RPS27",CD8 T,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell,cytotoxic t cell,CL:0000910,T cell
+1277,Lung,3,0.75,"CYB5A,C16orf89,CEACAM6,CTSE,DSTN,PIGR,WFDC2",Club,club cell,CL:0000158,epithelial cell,epithelial cell,CL:0000066,pulmonary alveolar type 2 cell
+1278,Lung,3,0.75,"LTBP1,COL3A1,BGN,ITGBL1,CALD1,ASPN,COL1A1",Myofibroblast,myofibroblast cell,CL:0000186,myofibroblast cell,fibroblast,CL:0000057,fibroblast
+1279,Lung,3,0.75,"PTPRE,GZMB,PPP1R14B,NPC2,SEC61B,TYROBP,IRF4",Plasmacytoid Dendritic,plasmacytoid dendritic cell,CL:0000784,dendritic cell,natural killer cell,CL:0000623,natural killer t cell
+1280,Lung,3,0.75,"KPNA2,TPX2,TYMS,STMN1,H2AFZ,UBE2C,NUSAP1",Proliferating Macrophage,,,macrophage/monocyte,cycling B cell,CL:4033068,unknown
+1281,Lung,3,0.75,"UBE2C,AURKB,BIRC5,TOP2A,CENPF,H2AFV,SMC4",Proliferating NK/T,,,t/nk cell,cycling B cell,CL:4033068,unknown
+1282,Lung,3,0.75,"EMCN,VWF,ENPP2,POSTN,SPRY1,INHBB,SPARCL1",Bronchial Vessel,,,bronchial cell,endothelial cell,CL:0000115,unknown
+1283,Lung,3,0.75,"RARRES1,SCGB3A1,SLPI,SCGB1A1,SAA1,BPIFB1,MUC5B",Mucous,,,mucosal cell,club cell,CL:0000158,goblet cell
+1284,Lung,3,0.75,"SLCO2A1,LIFR,CPE,SELP,PRSS23,PTPRB,TGM2",Vein,,,blood vessel cell,endothelial cell,CL:0000115,unidentified
+1285,Lung,3,0.75,"COL4A2,CHN1,LAMC3,NID1,CALD1,LAMB1,TACC1",Pericyte,pericyte,CL:0000669,pericyte,chorionic membrane mesenchymal stem cell,CL:0002541,cannot_be_determined
+1286,Lung,3,0.75,"CSRP1,TPM2,CALD1,DSTN,MYH11,CNN1,DES",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1287,Lung,3,0.75,"HEY1,FBLN5,EPAS1,PTPRB,GJA5,ARGLU1,EFNB2",Artery,,,blood vessel cell,endothelial cell,CL:0000115,endothelial cell
+1288,Lung,3,0.75,"EDNRB,STXBP6,HPGD,TBX2,EMCN,ESAM,CYP3A5",Capillary Aerocyte,,,epithelial cell,endothelial cell,CL:0000115,endothelial cell
+1289,Lung,3,0.75,"GALNT18,VAT1,WWTR1,RALA,SH3BP5,IPO7,EPAS1",Capillary Intermediate,,,blood vessel cell,epithelial cell,CL:0000066,endothelial cell of artery
+1290,Lung,3,0.75,"OSR1,CCDC71L,HAS1,CPXM1,C3,FGF7,MEDAG",Lipofibroblast,alveolar type 1 fibroblast cell,CL:4028004,fibroblast,pulmonary interstitial fibroblast,CL:0002241,fibroblast-like cell
+1291,Lung,3,0.75,"C3,DSC3,GALNT9,SLPI,PRG4,ALDH1A3,ITLN1",Mesothelial,mesothelial cell,CL:0000077,epithelial cell,bronchial epithelial cell,CL:0002328,goblet cell
+1292,Lung,3,0.75,"ITGA2B,TUBB1,PF4,CABP5,GP9,GP6,TMEM40",Platelet/Megakaryocyte,"platelet,megakaryocyte","CL:0000233,CL:0000556","platelet,megakaryocyte",platelet,CL:0000233,platelet
+1293,Lung,3,0.75,"CD7,LGALS1,CD2,CEBPB,CXCR4,CTSW,GNLY",Natural Killer T,,,t/nk cell,t cell,CL:0000084,T cell-related cell type (potentially cytotoxic T cell or T lymphocyte)
+1294,Lung,3,0.75,"MET,SCX,RAMP1,CLU,CNN1,FAM150A,CSRP1",Fibromyocyte,,,muscle cell,mesenchymal cell,CL:0008019,smooth muscle cell
+1295,Lung,3,0.75,"TXN,WFDC2,FAM3D,PSCA,AGR2,COX5A,GABRP",Goblet,goblet cell,CL:0000160,epithelial cell,club cell,CL:0000158,unknown cell type
+1296,Lung,3,0.75,"ASCL3,MFSD6L,TMPRSS11E,BSND,PHGR1,ATP6V1B1,HEPACAM2",Ionocyte,ionocyte,CL:0005006,epithelial cell,ciliated epithelial cell,CL:0000067,unknown cell type
+1297,Lung,3,0.75,"EGR1,SCGN,NENF,SEC11C,CHGA,PCSK1N,BEX1",Neuroendocrine,neuroendocrine cell,CL:0000165,epithelial cell,neuroendocrine cell,CL:0000165,neuroendocrine cell
+1298,Lung,3,0.75,"PRB4,ZG16B,PRH2,PRB3,TESC,PHB,TCN1",Serous,serous secreting cell,CL:0000313,secretory cell,acinar cell of salivary gland,CL:0002623,serous cell
+1299,Lung,3,0.75,"HLA-DRB1,C1QC,LYZ,LAPTM5,FCER1G,C1QB,CTSZ",Macrophages,macrophage,CL:0000235,macrophage/monocyte,alveolar macrophage,CL:0000583,macrophage
+1300,Lung,3,0.75,"CD7,CST7,CCL4,GZMB,PRF1,GNLY,NKG7",Innate lymphoid cell NK,natural killer cell,CL:0000623,t/nk cell,cytotoxic t cell,CL:0000910,natural killer cell
+1301,Lung,3,0.75,"MUC1,PEBP4,SLC39A8,SFTPD,NAPSA,S100A14,SFTA3",AT2,type II pneumocyte,CL:0002063,epithelial cell,fetal pre-type II pulmonary alveolar epithelial cell,CL:4040003,pulmonary alveolar type 2 cell
+1302,Lung,3,0.75,"MGP,SPARCL1,RAMP3,GNG11,CLEC14A,RAMP2,VWF",EC venous,vein endothelial cell,CL:0002543,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1303,Lung,3,0.75,"CD69,CORO1A,TRBC2,CCL5,CXCR4,IL32,TRAC",T cell lineage,T cell,CL:0000084,t/nk cell,activated type II NK T cell,CL:0000931,cd8+ mem/eff t cell
+1304,Lung,3,0.75,"CLEC14A,TM4SF1,SOX17,GIMAP7,A2M,SPARCL1,CRIP2",EC arterial,endothelial cell of artery,CL:1000413,endothelial cell,endothelial cell,CL:0000115,not_identified
+1305,Lung,3,0.75,"COL6A1,CALD1,COL1A2,LUM,C1S,IGFBP7,BGN",Fibroblasts,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,myofibroblast cell
+1306,Lung,3,0.75,"FXYD3,TSPAN13,EMP2,CEACAM6,SFTA2,CAV1,AGER",AT1,type I pneumocyte,CL:0002062,epithelial cell,pulmonary alveolar type 1 cell,CL:0002062,pulmonary alveolar type 2 cell
+1307,Lung,3,0.75,"C11orf97,CD24,C5orf49,GSTA1,SNTN,TMEM231,RP11-295M3.4",Multiciliated lineage,multi-ciliated epithelial cell,CL:0005012,epithelial cell,club cell,CL:0000158,unknown
+1308,Lung,3,0.75,"ISG20,MS4A1,IGKC,LTB,IGHA1,CD79A,IGLC2",B cell lineage,B cell,CL:0000236,b cell,b cell,CL:0000236,B cell
+1309,Lung,3,0.75,"WFDC2,CXCL17,MUC1,BPIFB1,PIGR,CEACAM6,KRT19",Secretory,secretory cell,CL:0000151,secretory cell,respiratory epithelial cell,CL:0002368,pulmonary alveolar type 2 cell
+1310,Lung,3,0.75,"S100A12,COTL1,FCER1G,LST1,FCN1,S100A9,VCAN",Monocytes,monocyte,CL:0000576,macrophage/monocyte,macrophage,CL:0000235,neutrophil
+1311,Lung,3,0.75,"CCL28,SEC11C,LTF,MARCKSL1,PIGR,AZGP1,SELM",Submucosal Secretory,,,secretory cell,club cell,CL:0000158,epithelial cell / secretory cell mixture
+1312,Lung,3,0.75,"CLDN5,TM4SF1,PECAM1,EGFL7,SPARCL1,AQP1,CLEC14A",EC capillary,capillary endothelial cell,CL:0002144,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1313,Lung,3,0.75,"CLDN5,PPFIBP1,TM4SF1,RAMP2,SDPR,IGFBP7,CCL21",Lymphatic EC mature,,,endothelial cell,endothelial cell,CL:0000115,unknown
+1314,Lung,3,0.75,"AKAP12,TCF4,GNG11,TIMP3,SDPR,TFPI,CLDN5",Lymphatic EC differentiating,,,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1315,Lung,3,0.75,"HLA-DPB1,HLA-DRB1,ITGB2,CORO1A,HLA-DQA1,HLA-DPA1,MS4A6A",Dendritic cells,dendritic cell,CL:0000451,dendritic cell,dendritic cell,CL:0000451,macrophage
+1316,Lung,3,0.75,"CALD1,GPX3,CYR61,IGFBP5,CTGF,MT1X,TAGLN",Myofibroblasts,myofibroblast cell,CL:0000186,myofibroblast cell,fibroblast,CL:0000057,myofibroblast
+1317,Lung,3,0.75,"TPSAB1,HPGDS,GATA2,MS4A2,C1orf186,VWA5A,CPA3",Mast cells,mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1318,Lung,3,0.75,"IGFBP7,DES,LMOD1,NEXN,SELM,PLN,TPM2",Fibromyocytes,,,muscle cell,smooth muscle cell,CL:0000192,muscle cell (potentially smooth muscle cell)
+1319,Lung,3,0.75,"LSM2,HMGN2,EID1,ARPC1A,HMGN1,COX20,S100A16",Lymphatic EC proliferating,,,endothelial cell,mesenchymal cell,CL:0008019,neutrophil
+1320,Lung,3,0.75,"PKHD1L1,TSHZ2,MMRN1,SEMA3A,CD36,ST6GALNAC3,LDB2",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,ciliated epithelial cell,CL:0000067,macrophage
+1321,Lung,3,0.75,"KHDRBS2,ST6GALNAC5,NCKAP5,NTM,LIMCH1,LMO7,RAB11FIP1",Epithelial cell (alveolar type I),type I pneumocyte,CL:0002062,epithelial cell,ciliated epithelial cell,CL:0000067,unknown
+1322,Lung,3,0.75,"ANK3,SFTPC,LRRK2,MACROD2,PDE4D,AUTS2,ZNF385B",Epithelial cell (alveolar type II),type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,pulmonary alveolar type 2 cell
+1323,Lung,3,0.75,"GLIS3,RBMS3,SSBP2,XPR1,EYA2,CACHD1,KRT17",Epithelial cell (basal),basal cell,CL:0000646,stem cell,basal cell,CL:0000646,unknown
+1324,Lung,3,0.75,"CDHR3,C4orf22,DNAH7,AGBL4,CFAP54,HYDIN,STK33",Epithelial cell (ciliated),ciliated epithelial cell,CL:0000067,epithelial cell,ciliated epithelial cell,CL:0000067,goblet cell
+1325,Lung,3,0.75,"SCGB3A2,SFTPB,ERBB4,BMPR1B,MACROD2,KIAA1324,CDK14",Epithelial cell (club),club cell,CL:0000158,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,pulmonary alveolar type 2 cell
+1326,Lung,3,0.75,"DENND5B,ARHGAP15,FCHSD2,ST6GAL1,PDK1,RALGPS2,CREB3L2",Immune (B cell),B cell,CL:0000236,b cell,fibroblast,CL:0000057,nonclassical monocyte
+1327,Lung,3,0.75,"PARP8,ARHGAP15,AOAH,PIP4K2A,B2M,KLRD1,SKAP1",Immune (NK cell),natural killer cell,CL:0000623,t/nk cell,macrophage,CL:0000235,unknown cell type
+1328,Lung,3,0.75,"FKBP5,BCL2,FYN,THEMIS,SKAP1,ITK,PARP8",Immune (T cell),T cell,CL:0000084,t/nk cell,t cell,CL:0000084,cd8+ naive t cell
+1329,Lung,3,0.75,"PPARG,GPCPD1,DOCK8,RNF149,SLC11A1,PLXDC2,TFRC",Immune (alveolar macrophage),alveolar macrophage,CL:0000583,macrophage/monocyte,macrophage,CL:0000235,unknown
+1330,Lung,3,0.75,"TPSAB1,IL18R1,SYTL3,ARHGAP15,FER,SRGN,SLC24A3",Immune (mast cell),mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1331,Lung,3,0.75,"EBF1,CACNA1C,MYH11,ACTA2,CALD1,DMD,PRKG1",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell",smooth muscle cell,CL:0000192,smooth muscle cell
+1332,Lung,3,0.75,"EPAS1,ST6GALNAC3,PTPRM,CALCRL,PECAM1,TIMP3,TCF4",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1333,Lung,3,0.75,"RBMS3,RORA,LSAMP,PRKG1,SLIT2,PLXDC2,LAMA2",Fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,fibroblast
+1334,Lung,3,0.75,"SLC8A1,SRGN,FKBP5,CD74,CTSB,TBXAS1,PIK3R5",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte",macrophage,CL:0000235,myeloid dendritic cell
+1335,Lung,3,0.75,"LPIN1,ACSL1,PPARG,PLIN2,EBF1,PLIN1,GHR",Adipocyte,fat cell,CL:0000136,fat cell,adipocyte,CL:0000136,adipocyte
+1336,Lung,3,0.75,"HOPX,AGER,EMP2",Alveolar Type I,type I pneumocyte,CL:0002062,epithelial cell,pulmonary alveolar type 1 cell,CL:0002062,alveolar epithelial type I cell
+1337,Lung,3,0.75,"SFTPB,NKX2-1,LAMP3",Alveolar Type II,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar epithelial type II cell and myeloid dendritic cell
+1338,Lung,3,0.75,"CD24,FAS,CR2",B cell_memory,memory B cell,CL:0000787,b cell,b cell,CL:0000236,b cell
+1339,Lung,3,0.75,"HYDIN,DNAI2,FOXJ1,TUBA1A,DNAI1,CDHR3",Ciliated Epithelial,ciliated epithelial cell,CL:0000067,epithelial cell,ciliated epithelial cell,CL:0000067,ciliated epithelial cell
+1340,Lung,3,0.75,"SCGB3A1,SCGB1A1,BPIFA1,MUC5B,SLPI",Club Epithelial,club cell,CL:0000158,epithelial cell,club cell,CL:0000158,club cell
+1341,Lung,3,0.75,"IL33,IGFBP5,HGF,COL3A1,FBLN1,COL6A3,SLIT2,DDR2,COL18A1,IGFBP3,COL6A6,NEGR1,COL1A2,COL6A2,IL6,COL6A1,COL1A1,DCN",Fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,pulmonary fibroblast
+1342,Lung,3,0.75,"PROX1,LYVE1,FLT4,CCL21",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,endothelial cell of lymphatic vessel,CL:0002138,lymphatic endothelial cell
+1343,Lung,3,0.75,"PTPRC,CD74,CD163,LYVE1,RBPJ,CD68,C1QA,MS4A6A,SLC11A1,CD36,CSF1R,LYZ,MRC1,MS4A4A,CD163",Macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,macrophage
+1344,Lung,3,0.75,"HDC,TPSAB1,FCER1A,CD69",Mast Cell,mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1345,Lung,3,0.75,"MYO1B,MCAM,PDGFRB,CSPG4,ACTA2,DES",Pericyte,pericyte,CL:0000669,pericyte,pericyte,CL:0000669,pericyte
+1346,Lung,3,0.75,"TAGLN,SMTN,VCL,MYH11,ACTG2,MYOCD,MYL9,DES,GUCY1B3,ACTA2",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1347,Lung,3,0.75,"IL7R,SKAP1,THEMIS,NKG7,CD3D,CD247,CD96,CD3E,CD69",T cell,T cell,CL:0000084,t/nk cell,t cell,CL:0000084,T cell
+1348,Lung,3,0.75,"CD300LG,RAMP3,CLDN5,LDB2,BACE2,VWF,PTPRB",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1349,Lung,3,0.75,"SFTPA1,NAPSA,SFTPA2,SFTPD,PGC,SLC34A2,SFTA2",type ii pneumocyte,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar type II cell
+1350,Lung,3,0.75,"MGAM,FCGR3B,MMP25,IL1R2,OLAH,MTND5P32,PROK2",neutrophil,neutrophil,CL:0000775,granulocyte,neutrophil,CL:0000775,nonclassical monocyte
+1351,Lung,3,0.75,"CD3E,CD2,TRBC2,TRAC,CD69,IL7R,IL32","cd4-positive, alpha-beta t cell","CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell,t cell,CL:0000084,T cell
+1352,Lung,3,0.75,"KLRD1,CCL4,CD2,NKG7,GZMA,CD3D,CD3E","cd8-positive, alpha-beta t cell","CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell,natural killer cell,CL:0000623,cd8+ mem/eff t cell
+1353,Lung,3,0.75,"KLRD1,GNLY,KLRB1,GZMA,CST7,KLRF1,CD247",nk cell,natural killer cell,CL:0000623,t/nk cell,natural killer cell,CL:0000623,natural killer cell
+1354,Lung,3,0.75,"CYTL1,POSTN,CCL14,PLVAP,ZNF385D,RBP5,ADAMTS4",bronchial vessel endothelial cell,,,endothelial cell,fibroblast,CL:0000057,unknown
+1355,Lung,3,0.75,"CCN5,CNN1,MYH11,FOXC2,DES,ACTG2,ADRA2C",smooth muscle cell,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cells
+1356,Lung,3,0.75,"FBLN1,C1R,SERPINF1,MGP,DCN,IGFBP6,MFAP5",adventitial cell,adventitial cell,CL:0002503,adventitial cell,fibroblast,CL:0000057,fibroblast
+1357,Lung,3,0.75,"C1QA,APOC1,APOE,FABP4,C1QB,MRC1,VSIG4",macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,macrophage
+1358,Lung,3,0.75,"VWA5A,KIT,TPSAB1,TPSB2,CPA3,HPGDS,GATA2",basophil,basophil,CL:0000767,granulocyte,mast cell,CL:0000097,mast cell
+1359,Lung,3,0.75,"FCN1,CD300E,S100A8,S100A12,VSIR,FGL2,MNDA",classical monocyte,classical monocyte,CL:0000860,macrophage/monocyte,monocyte,CL:0000576,macrophage
+1360,Lung,3,0.75,"SERPINE2,NPR3,CXCL12,GJA5,SSTR1,DKK2,MMRN2",endothelial cell of artery,endothelial cell of artery,CL:1000413,endothelial cell,endothelial cell,CL:0000115,endothelial cell of artery
+1361,Lung,3,0.75,"CAPS,C9orf24,C1orf194,PIFO,TPPP3,C11orf88,TSPAN1",lung ciliated cell,lung ciliated cell,CL:1000271,ciliated cell,ciliated cell,CL:0000064,goblet cell
+1362,Lung,3,0.75,"FCGR2B,PKIB,CLEC5A,CST7,CLEC10A,GPR183,CD1C",dendritic cell,dendritic cell,CL:0000451,dendritic cell,myeloid cell,CL:0000763,dendritic cell
+1363,Lung,3,0.75,"BPIFB1,TSPAN1,LCN2,MSMB,CP,SCGB1A1,TFF3",respiratory goblet cell,respiratory goblet cell,CL:0002370,epithelial cell,club cell,CL:0000158,club cell
+1364,Lung,3,0.75,"MIR205HG,IGFBP2,KRT5,KRT17,PERP,S100A2,KRT19",basal cell,basal cell,CL:0000646,stem cell,basal cell,CL:0000646,basal epithelial cell
+1365,Lung,3,0.75,"DERL3,TNFRSF17,SPAG4,IGHG4,JCHAIN,CD79A,IGHG2",plasma cell,plasma cell,CL:0000786,b cell,plasma cell,CL:0000786,plasma cell
+1366,Lung,3,0.75,"IGHM,TNFRSF13C,VPREB3,CD79A,BLK,CD19,LINC01781",b cell,B cell,CL:0000236,b cell,b cell,CL:0000236,B cell
+1367,Lung,3,0.75,"TTYH1,ANO1,PRR4,PRB3,C6orf58,LINC01829,PRB1",serous cell of epithelium of bronchus,serous cell of epithelium of bronchus,CL:1000331,secretory cell,mucus secreting cell,CL:0000319,goblet cell
+1368,Lung,3,0.75,"CD163,HCLS1,CSF1R,MS4A6A,FCGR3A,MAFB,RNASE6",non-classical monocyte,non-classical monocyte,CL:0000875,macrophage/monocyte,macrophage,CL:0000235,nonclassical monocyte
+1369,Lung,3,0.75,"RAMP2,SLC6A4,FCN3,MT1M,CALCRL,CLDN5,LRRC32",capillary endothelial cell,capillary endothelial cell,CL:0002144,endothelial cell,endothelial cell,CL:0000115,unknown cell type
+1370,Lung,3,0.75,"CA4,SPARCL1,CLDN5,HPGD,EDNRB,RAMP2,TIMP3",capillary aerocyte,,,epithelial cell,endothelial cell,CL:0000115,capillary endothelial cell
+1371,Lung,3,0.75,"NCKAP5,PKDCC,ITLN2,NTM,MYRF,SCEL,UPK3B",type i pneumocyte,type I pneumocyte,CL:0002062,epithelial cell,club cell,CL:0000158,unidentified
+1372,Lung,3,0.75,"SPARCL1,CLU,LIFR,VWF,PRSS23,RAMP3,C7",vein endothelial cell,vein endothelial cell,CL:0002543,endothelial cell,endothelial cell,CL:0000115,unknown
+1373,Lung,3,0.75,"PTGDS,C7,LUM,RARRES2,C1S,FBLN1,DCN",alveolar fibroblast,,,fibroblast,fibroblast,CL:0000057,fibroblast
+1374,Lung,3,0.75,"FOXC2,RELN,MMRN1,SEMA3D,CCL21,SCN3B,STAB2",endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,endothelial cell of lymphatic vessel,CL:0002138,unidentified_cell_type
+1375,Lung,3,0.75,"ACTG2,PPP1R14A,PLAC9,CNN1,CRYAB,PLN,MYH11",bronchial smooth muscle cell,bronchial smooth muscle cell,CL:0002598,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1376,Lung,3,0.75,"CLEC4C,AL357143.1,LAMP5,AL139020.1,SCT,SPIB,LILRA4",plasmacytoid dendritic cell,plasmacytoid dendritic cell,CL:0000784,dendritic cell,plasmacytoid dendritic cell,CL:0000784,unknown
+1377,Lung,3,0.75,"SFTPB,SCGB3A2,ELF3,CEACAM6,NEDD4L,CYP2B7P,FOLR1",club cell,club cell,CL:0000158,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,club cell
+1378,Lung,3,0.75,"NPDC1,C7,ACKR1,SPARCL1,CLDN5,LIFR,PLVAP",lung microvascular endothelial cell,lung microvascular endothelial cell,CL:2000016,endothelial cell,endothelial cell,CL:0000115,unidentified
+1379,Lung,3,0.75,"PDGFRB,LMOD1,CCN5,BGN,COX4I2,GJA4,MYH11",vascular associated smooth muscle cell,vascular associated smooth muscle cell,CL:0000359,muscle cell,pericyte,CL:0000669,smooth muscle cell
+1380,Lung,3,0.75,"MKRN9P,RSPO1,LINC01902,LRRC38,GPR1,PLPPR4,FABP7",myofibroblast cell,myofibroblast cell,CL:0000186,myofibroblast cell,club cell,CL:0000158,pulmonary alveolar type 2 cell
+1381,Lung,3,0.75,"PPP1R14A,COX4I2,KCNK3,INMT,HIGD1B,BGN,NDUFA4L2",pericyte cell,pericyte,CL:0000669,pericyte,endothelial cell,CL:0000115,pulmonary alveolar type 2 cell
+1382,Lung,3,0.75,"SYT4,BCHE,PRG4,HAS1,ROR2,ITLN1,VIPR2",mesothelial cell,mesothelial cell,CL:0000077,epithelial cell,myoepithelial cell,CL:0000185,goblet cell
+1383,Lung,3,0.75,"SCN7A,AL135910.1,CACNA1C,BMP5,TARID,COL1A2,ABCA6",fibroblast,fibroblast,CL:0000057,fibroblast,myoepithelial cell,CL:0000185,unknown
+1384,Lung,3,0.75,"AIF1,CD300E,CORO1A,MPEG1,LILRB2,VCAN,FCN1",intermediate monocyte,intermediate monocyte,CL:0002393,macrophage/monocyte,macrophage,CL:0000235,macrophage
+1385,Lung,3,0.75,"DGKI,CLCNKB,ATP6V1G3,PROX1,CEL,TMPRSS11E,CLNK",pulmonary ionocyte,pulmonary ionocyte,CL:0017000,epithelial cell,alveolar macrophage,CL:0000583,unknown
+1386,Lung,3,1.0,"LAMA3,LMO7,SCEL,RTKN2,DST,SPOCK2,EMP2,GPRC5A,ARHGEF26,AGER",Alveolar Epithelial Type 1,type I pneumocyte,CL:0002062,epithelial cell,basal cell,CL:0000646,alveolar epithelial type I cell
+1387,Lung,3,1.0,"CD79B,SP140,VPREB3,MS4A1,LINC00926,CD79A,BANK1,ADAM28,BLK,CD22",B,B cell,CL:0000236,b cell,b cell,CL:0000236,B cell
+1388,Lung,3,1.0,"PERP,KRT5,FHL2,KRT17,S100A2,CLDN1,ITGA2,KRT19,KRT15,DST",Basal,basal cell,CL:0000646,stem cell,basal cell,CL:0000646,basal_cell
+1389,Lung,3,1.0,"METTL9,VCAN,S100A12,CTSS,FCN1,CD300E,S100A9,CSF3R,S100A8,CD99",CD14+ Monocyte,CD14-positive monocyte,CL:0001054,macrophage/monocyte,macrophage,CL:0000235,neutrophil
+1390,Lung,3,1.0,"MAL,IL7R,TRAT1,MALAT1,CD6,CD2,ITK,LEF1,BCL11B,CAMK4",CD4 T,"CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell,t cell,CL:0000084,T cell
+1391,Lung,3,1.0,"C20orf85,DNAH6,SNTN,CCDC170,FAM92B,FANK1,RSPH1,ZMYND10,CDHR3,CAPS",Ciliated,ciliated cell,CL:0000064,ciliated cell,ciliated epithelial cell,CL:0000067,goblet cell
+1392,Lung,3,1.0,"HLA-DPB1,FPR3,HLA-DQA1,CSF2RA,FCGR2B,RGS1,CLEC10A,GPR183,HLA-DMB,MS4A6A",Dendritic,dendritic cell,CL:0000451,dendritic cell,dendritic cell,CL:0000451,cell_type_name
+1393,Lung,3,1.0,"FBLN1,C3,ADH1B,SLIT2,LUM,DCN,CFD,C1R,ABLIM1,C1S",Fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,fibroblast
+1394,Lung,3,1.0,"TFPI,IGFBP7,PPFIBP1,PKHD1L1,TFF3,TBX1,TIMP3,CCL21,MMRN1,PROX1",Lymphatic,,,immune cell,endothelial cell,CL:0000115,pulmonary neuroendocrine cell
+1395,Lung,3,1.0,"ITGAX,ACP5,GPD1,VSIG4,SLCO2B1,C1QB,APOC1,OLR1,MARCO,C1QA",Macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,alveolar macrophage
+1396,Lung,3,1.0,"PRF1,KLRF1,CD247,PYHIN1,FCGR3A,GNLY,GZMB,KLRD1,NKG7,SPON2",Natural Killer,natural killer cell,CL:0000623,t/nk cell,natural killer cell,CL:0000623,natural killer cell
+1397,Lung,3,1.0,"HSP90B1,SEC11C,MANF,MZB1,DERL3,TNFRSF17,PRDX4,POU2AF1,XBP1,SSR4",Plasma,plasma cell,CL:0000786,b cell,plasma cell,CL:0000786,plasma cell
+1398,Lung,3,1.0,"ABCA3,LAMP3,SFTPB,SLC34A2,SFTPC,SFTPA2,LPCAT1,NAPSA,SFTPA1,SFTPD",Alveolar Epithelial Type 2,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,pulmonary alveolar type 2 cell
+1399,Lung,3,1.0,"VWA5A,GATA2,CPA3,GRAP2,TPSAB1,HPGDS,MS4A2,KIT,HDC,CD44",Basophil/Mast,"basophil,mast cell","CL:0000767,CL:0000097",granulocyte,mast cell,CL:0000097,mast cell
+1400,Lung,3,1.0,"AIF1,SAT1,COTL1,RHOC,FCN1,LILRB2,IFITM2,LST1,FCGR3A,RPS19",CD16+ Monocyte,,,macrophage/monocyte,macrophage,CL:0000235,nonclassical monocyte
+1401,Lung,3,1.0,"EPAS1,FCN3,CDC42EP1,CDH5,NOSTRIN,CD81,FLNB,PODXL,RAMP3,BTNL9",Capillary,,,blood vessel cell,endothelial cell,CL:0000115,fibroblast
+1402,Lung,3,1.0,"RPS27,CD8B,RPL34,CD3G,CCL5,GZMA,NKG7,CD3D,GZMH,CD8A",CD8 T,"CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell,t cell,CL:0000084,cytotoxic T cell
+1403,Lung,3,1.0,"DSTN,C16orf89,CTSE,CYB5A,PIGR,KIAA1324,SCGB3A2,CEACAM6,SFTPB,WFDC2",Club,club cell,CL:0000158,epithelial cell,epithelial cell,CL:0000066,goblet cell
+1404,Lung,3,1.0,"ITGBL1,COL1A1,BGN,COL6A3,ASPN,COL1A2,COL3A1,POSTN,CALD1,LTBP1",Myofibroblast,myofibroblast cell,CL:0000186,myofibroblast cell,fibroblast,CL:0000057,fibroblast
+1405,Lung,3,1.0,"GZMB,IRF7,PTPRE,NPC2,IL3RA,TYROBP,PPP1R14B,PLD4,SEC61B,IRF4",Plasmacytoid Dendritic,plasmacytoid dendritic cell,CL:0000784,dendritic cell,natural killer cell,CL:0000623,natural killer t cell
+1406,Lung,3,1.0,"BIRC5,TYMS,KPNA2,TPX2,NUSAP1,H2AFZ,UBE2C,ANLN,CDK1,STMN1",Proliferating Macrophage,,,macrophage/monocyte,cycling B cell,CL:4033068,proliferating cell
+1407,Lung,3,1.0,"UBE2C,NUSAP1,H2AFV,AURKB,CENPF,KIF2C,SMC4,HMGB2,TOP2A,BIRC5",Proliferating NK/T,,,t/nk cell,cycling B cell,CL:4033068,cell_cycle_related_cells
+1408,Lung,3,1.0,"EMCN,VWF,ENPP2,SPARCL1,INHBB,SPRY1,PLVAP,POSTN,ZNF385D,COL15A1",Bronchial Vessel,,,bronchial cell,endothelial cell,CL:0000115,endothelial cell
+1409,Lung,3,1.0,"MUC5B,SCGB3A1,BPIFB1,WFDC2,SCGB1A1,SLPI,RARRES1,MSMB,SAA1,LCN2",Mucous,,,mucosal cell,goblet cell,CL:0000160,club cell
+1410,Lung,3,1.0,"SRPX,VWF,PTPRB,PRSS23,SELP,PLA1A,TGM2,SLCO2A1,LIFR,CPE",Vein,,,blood vessel cell,endothelial cell,CL:0000115,unknown
+1411,Lung,3,1.0,"TACC1,COX4I2,LAMC3,LAMB1,COL4A1,COL4A2,CHN1,CALD1,NID1,PDGFRB",Pericyte,pericyte,CL:0000669,pericyte,fibroblast,CL:0000057,pulmonary alveolar type 2 cell
+1412,Lung,3,1.0,"CALD1,TPM2,DSTN,MYH11,DES,ACTA2,PLN,MYL9,CNN1,CSRP1",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1413,Lung,3,1.0,"EPAS1,BMX,PTPRB,ARGLU1,DKK2,EFNB2,GJA5,HEY1,FBLN5,SEMA3G",Artery,,,blood vessel cell,endothelial cell,CL:0000115,endothelial cell
+1414,Lung,3,1.0,"TBX2,HPGD,APP,CLDN5,EMCN,CYP3A5,EDNRB,STXBP6,SOSTDC1,ESAM",Capillary Aerocyte,,,epithelial cell,endothelial cell,CL:0000115,potentially novel or uncharacterized cell type
+1415,Lung,3,1.0,"SRSF11,ACVRL1,VAT1,RALA,WWTR1,IPO7,PECAM1,SH3BP5,GALNT18,EPAS1",Capillary Intermediate,,,blood vessel cell,endothelial cell,CL:0000115,unknown
+1416,Lung,3,1.0,"C7,MEDAG,C3,CCDC71L,OSR1,FGF7,WT1,HAS1,STEAP1,CPXM1",Lipofibroblast,alveolar type 1 fibroblast cell,CL:4028004,fibroblast,mesothelial cell,CL:0000077,pulmonary fibroblast
+1417,Lung,3,1.0,"C3,DSC3,ITLN1,GALNT9,ALDH1A3,PRG4,WT1,DMKN,SLPI,MGARP",Mesothelial,mesothelial cell,CL:0000077,epithelial cell,mesothelial cell,CL:0000077,goblet cell
+1418,Lung,3,1.0,"ITGA2B,TUBB1,CABP5,GRAP2,GP6,GP9,PF4,CMTM5,ACRBP,TMEM40",Platelet/Megakaryocyte,"platelet,megakaryocyte","CL:0000233,CL:0000556","platelet,megakaryocyte",platelet,CL:0000233,unidentified cell type
+1419,Lung,3,1.0,"CEBPB,GNLY,S100A6,LGALS1,CD2,CD7,CXCR4,CCL5,ZFP36L2,CTSW",Natural Killer T,,,t/nk cell,T cell,CL:0000084,NK T cell
+1420,Lung,3,1.0,"MET,CST5,HSPB3,RAMP1,CNN1,CLU,CSRP1,IGF1,FAM150A,SCX",Fibromyocyte,,,muscle cell,smooth muscle cell,CL:0000192,fibroblast
+1421,Lung,3,1.0,"PSCA,WFDC2,CXCL17,FAM3D,AGR2,GABRP,CLIC1,COX5A,S100P,TXN",Goblet,goblet cell,CL:0000160,epithelial cell,fallopian tube secretory epithelial cell,CL:4030006,goblet cell
+1422,Lung,3,1.0,"HEPACAM2,TMPRSS11E,STAC2,BSND,TFF3,ATP6V1B1,MFSD6L,ASCL3,FOXI1,PHGR1",Ionocyte,ionocyte,CL:0005006,epithelial cell,ciliated cell,CL:0000064,ciliated cell
+1423,Lung,3,1.0,"BEX1,FAM46A,SCGN,PRDX2,CPE,CHGA,NENF,SEC11C,PCSK1N,EGR1",Neuroendocrine,neuroendocrine cell,CL:0000165,epithelial cell,neuroendocrine cell,CL:0000165,pulmonary neuroendocrine cell
+1424,Lung,3,1.0,"TESC,ZG16B,PRB3,PHB,TCN1,PRR4,PRH2,PRB4,LPO,LYZ",Serous,serous secreting cell,CL:0000313,secretory cell,serous secreting cell,CL:0000313,serous cell
+1425,Lung,3,1.0,"C1QB,C1QA,FCER1G,CTSZ,AIF1,C1QC,HLA-DRB1,LAPTM5,LYZ,CTSL",Macrophages,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,macrophage
+1426,Lung,3,1.0,"PRF1,NKG7,CD7,CTSW,GZMA,CCL4,CCL5,GNLY,GZMB,CST7",Innate lymphoid cell NK,natural killer cell,CL:0000623,t/nk cell,cytotoxic t cell,CL:0000910,natural_killer_cell
+1427,Lung,3,1.0,"SLC39A8,S100A14,SFTA3,SLC34A2,CYB5A,MUC1,SFTPD,NAPSA,SFTA2,PEBP4",AT2,type II pneumocyte,CL:0002063,epithelial cell,club cell,CL:0000158,alveolar type II cell
+1428,Lung,3,1.0,"PECAM1,IGFBP7,SPARCL1,RAMP2,MGP,GNG11,VWF,ACKR1,CLEC14A,RAMP3",EC venous,vein endothelial cell,CL:0002543,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1429,Lung,3,1.0,"CD2,CXCR4,IL32,TRBC2,CD3E,CCL5,CORO1A,TRAC,CD3D,CD69",T cell lineage,T cell,CL:0000084,t/nk cell,t cell,CL:0000084,cd8+ mem/eff t cell
+1430,Lung,3,1.0,"IFI27,GIMAP7,PECAM1,CRIP2,TM4SF1,CLEC14A,CLDN5,SPARCL1,A2M,SOX17",EC arterial,endothelial cell of artery,CL:1000413,endothelial cell,endothelial cell,CL:0000115,lipofibroblast
+1431,Lung,3,1.0,"COL6A1,MGP,COL1A2,CALD1,C1S,LUM,SPARC,DCN,BGN,IGFBP7",Fibroblasts,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,fibroblast
+1432,Lung,3,1.0,"SFTA2,CEACAM6,CAV1,HOPX,FXYD3,ADIRF,EMP2,TSPAN13,AGER,KRT7",AT1,type I pneumocyte,CL:0002062,epithelial cell,pulmonary alveolar epithelial cell,CL:0000322,pulmonary alveolar type 1 cell
+1433,Lung,3,1.0,"C5orf49,C11orf97,RP11-295M3.4,GSTA1,CD24,FAM229B,SNTN,TMEM231,C12orf75,RP11-356K23.1",Multiciliated lineage,multi-ciliated epithelial cell,CL:0005012,epithelial cell,liver dendritic cell,CL:2000055,unknown
+1434,Lung,3,1.0,"IGHA1,IGLC2,CD37,TSC22D3,CD79A,MS4A1,LTB,IGKC,CORO1A,ISG20",B cell lineage,B cell,CL:0000236,b cell,b cell,CL:0000236,B cell
+1435,Lung,3,1.0,"TACSTD2,CP,CEACAM6,KRT19,WFDC2,CXCL17,PIGR,KRT7,MUC1,BPIFB1",Secretory,secretory cell,CL:0000151,secretory cell,epithelial cell,CL:0000066,pulmonary alveolar type 2 cell
+1436,Lung,3,1.0,"S100A8,CD14,FCER1G,AIF1,VCAN,S100A12,COTL1,FCN1,LST1,S100A9",Monocytes,monocyte,CL:0000576,macrophage/monocyte,macrophage,CL:0000235,neutrophil
+1437,Lung,3,1.0,"SEC11C,CCL28,TCN1,SELM,AZGP1,ZG16B,MARCKSL1,LTF,PIGR,PIP",Submucosal Secretory,,,secretory cell,secretory cell,CL:0000151,club cell
+1438,Lung,3,1.0,"TM4SF1,IFI27,CLDN5,SPARCL1,HYAL2,AQP1,PECAM1,CLEC14A,EGFL7,CDH5",EC capillary,capillary endothelial cell,CL:0002144,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1439,Lung,3,1.0,"RAMP2,TM4SF1,IGFBP7,MMRN1,CLDN5,GNG11,CCL21,SDPR,ECSCR,PPFIBP1",Lymphatic EC mature,,,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1440,Lung,3,1.0,"TFF3,TIMP3,SDPR,CLDN5,TCF4,TFPI,IGFBP7,GNG11,CCL21,AKAP12",Lymphatic EC differentiating,,,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1441,Lung,3,1.0,"HLA-DPB1,GPR183,HLA-DQA1,MS4A6A,HLA-DMA,HLA-DPA1,HLA-DQB1,ITGB2,CORO1A,HLA-DRB1",Dendritic cells,dendritic cell,CL:0000451,dendritic cell,dendritic cell,CL:0000451,antigen-presenting cell
+1442,Lung,3,1.0,"TAGLN,PRELP,TPM2,CALD1,MT1X,SPARCL1,CYR61,IGFBP5,GPX3,CTGF",Myofibroblasts,myofibroblast cell,CL:0000186,myofibroblast cell,fibroblast,CL:0000057,fibroblast
+1443,Lung,3,1.0,"C1orf186,HPGDS,CPA3,MS4A2,TPSB2,VWA5A,RGS13,KIT,TPSAB1,GATA2",Mast cells,mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1444,Lung,3,1.0,"ACTG2,PPP1R14A,DES,PLN,FLNA,LMOD1,SELM,IGFBP7,NEXN,TPM2",Fibromyocytes,,,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1445,Lung,3,1.0,"HMGN1,MARCKS,ECSCR,S100A16,COX20,HMGN2,EID1,LSM2,TUBB,ARPC1A",Lymphatic EC proliferating,,,endothelial cell,epithelial cell,CL:0000066,neutrophil
+1446,Lung,3,1.0,"TSHZ2,CD36,ST6GALNAC3,PPFIBP1,LDB2,MMRN1,KALRN,SEMA3A,PKHD1L1,FBXL7",Endothelial cell (lymphatic),endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,adipocyte,CL:0000136,unable to determine
+1447,Lung,3,1.0,"RBMS3,LMO7,LIMCH1,NCKAP5,EMP2,NTM,LAMA3,RAB11FIP1,KHDRBS2,ST6GALNAC5",Epithelial cell (alveolar type I),type I pneumocyte,CL:0002062,epithelial cell,mesothelial cell,CL:0000077,fibroblast
+1448,Lung,3,1.0,"ERBB4,AUTS2,MACROD2,SFTPB,SFTPC,PDE4D,ANK3,LRRK2,ABCA3,ZNF385B",Epithelial cell (alveolar type II),type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,pulmonary alveolar type 2 cell
+1449,Lung,3,1.0,"SSBP2,GLIS3,MACROD2,XPR1,TP63,RBMS3,EYA2,KRT17,CACHD1,FAF1",Epithelial cell (basal),basal cell,CL:0000646,stem cell,basal cell,CL:0000646,"The provided markers do not directly match the known markers for specific lung cell types from the database. Therefore, no specific cell type can be identified based on the given markers."
+1450,Lung,3,1.0,"CDHR3,DNAH7,LRRIQ1,AGBL4,DNAH12,C4orf22,TMEM232,CFAP54,STK33,HYDIN",Epithelial cell (ciliated),ciliated epithelial cell,CL:0000067,epithelial cell,ciliated epithelial cell,CL:0000067,ciliated epithelial cell
+1451,Lung,3,1.0,"SFTPB,SCGB3A2,MECOM,ERBB4,CDK14,KIAA1324,NEDD4L,MACROD2,BMPR1B,KIAA1217",Epithelial cell (club),club cell,CL:0000158,epithelial cell,pulmonary alveolar epithelial cell,CL:0000322,alveolar epithelial cells
+1452,Lung,3,1.0,"ARHGAP15,CREB3L2,PDK1,PLCG2,ST6GAL1,DENND5B,RALGPS2,MEF2C,FBXW7,FCHSD2",Immune (B cell),B cell,CL:0000236,b cell,pulmonary interstitial fibroblast,CL:0002241,nonclassical monocyte
+1453,Lung,3,1.0,"B2M,KLRD1,PRKCH,CD247,PARP8,FYN,ARHGAP15,PIP4K2A,AOAH,SKAP1",Immune (NK cell),natural killer cell,CL:0000623,t/nk cell,natural killer cell,CL:0000623,macrophage
+1454,Lung,3,1.0,"THEMIS,SYTL3,BCL2,FKBP5,FYN,ARHGAP15,ITK,PARP8,PTPRC,SKAP1",Immune (T cell),T cell,CL:0000084,t/nk cell,t cell,CL:0000084,b cell
+1455,Lung,3,1.0,"RNF149,FMNL2,ZEB2,MSR1,DOCK8,TFRC,PLXDC2,GPCPD1,SLC11A1,PPARG",Immune (alveolar macrophage),alveolar macrophage,CL:0000583,macrophage/monocyte,macrophage,CL:0000235,unknown
+1456,Lung,3,1.0,"SYTL3,TPSB2,ARHGAP15,IL18R1,SRGN,SAMSN1,FER,TPSAB1,KIT,SLC24A3",Immune (mast cell),mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1457,Lung,3,1.0,"EBF1,CACNA1C,DMD,INPP4B,LPP,ACTA2,PRKG1,TPM1,MYH11,CALD1",Pericyte/SMC,"pericyte,smooth muscle cell","CL:0000669,CL:0000192","pericyte,muscle cell",smooth muscle cell,CL:0000192,smooth muscle cells
+1458,Lung,3,1.0,"EGFL7,TCF4,PTPRM,LDB2,PECAM1,TIMP3,EPAS1,PTPRB,ST6GALNAC3,CALCRL",Endothelial cell (vascular),endothelial cell of vascular tree,CL:0002139,endothelial cell,endothelial cell,CL:0000115,Endothelial cell
+1459,Lung,3,1.0,"LAMA2,PRKG1,PLEKHH2,RBMS3,SLIT2,RORA,ARHGAP6,LSAMP,ROBO2,PLXDC2",Fibroblast,fibroblast,CL:0000057,fibroblast,smooth muscle cell,CL:0000192,lung fibroblast
+1460,Lung,3,1.0,"SRGN,PLXDC2,TBXAS1,CTSB,CHST11,PIK3R5,SLC8A1,FKBP5,CD74,ZEB2",Immune (DC/macrophage),"dendritic cell,macrophage","CL:0000451,CL:0000235","dendritic cell,macrophage/monocyte",macrophage,CL:0000235,eosinophil
+1461,Lung,3,1.0,"ADIPOQ,PLIN1,FOXO1,LPIN1,PLIN2,G0S2,GHR,EBF1,PPARG,ACSL1",Adipocyte,fat cell,CL:0000136,fat cell,adipocyte,CL:0000136,adipocyte
+1462,Lung,3,1.0,"HOPX,EMP2,CAV1,PDPN,AGER",Alveolar Type I,type I pneumocyte,CL:0002062,epithelial cell,pulmonary alveolar type 1 cell,CL:0002062,alveolar epithelial type I cell
+1463,Lung,3,1.0,"SFTPB,NKX2-1,LAMP3,SLC34A2,SFTPC",Alveolar Type II,type II pneumocyte,CL:0002063,epithelial cell,fetal pre-type II pulmonary alveolar epithelial cell,CL:4040003,alveolar epithelial cell type II
+1464,Lung,3,1.0,"FAS,CD24,CD1c,CR2,CXCR3",B cell_memory,memory B cell,CL:0000787,b cell,dendritic cell,CL:0000451,not_retrievable
+1465,Lung,3,1.0,"FOXJ1,DNAH5,FAM92B,DNAI1,DNAI2,TUBA1A,HYDIN,CDHR3",Ciliated Epithelial,ciliated epithelial cell,CL:0000067,epithelial cell,ciliated epithelial cell,CL:0000067,ciliated epithelial cell
+1466,Lung,3,1.0,"MUC5B,SCGB3A2,SLPI,BPIFA1,CYP2F2,SCGB1A1,SCGB3A1",Club Epithelial,club cell,CL:0000158,epithelial cell,club cell,CL:0000158,club cell
+1467,Lung,3,1.0,"COL5A1,COL4A1,COL3A1,IGFBP3,COL6A6,CCN2,COL6A2,COL6A3,COL1A1,NEGR1,FBN1,IGFBP5,COL1A2,COL5A2,FBLN1,IL33,DDR2,COL18A1,COL6A1,HGF,VIM,DCN,FN1,SLIT2,IL6",Fibroblast,fibroblast,CL:0000057,fibroblast,fibroblast,CL:0000057,fibroblast
+1468,Lung,3,1.0,"LYVE1,CCL21,FLT4,RELN,PROX1,MMRN1",Lymphatic Endothelial,endothelial cell of lymphatic vessel,CL:0002138,endothelial cell,endothelial cell of lymphatic vessel,CL:0002138,lymphatic endothelial cell
+1469,Lung,3,1.0,"MS4A4A,SLC11A1,CD163,LYZ,MR1,CPM,LYVE1,C1QA,PTPRC,CD74,CSF1R,RBPJ,MSR1,MRC1,MS4A6A,CD68,MERTK,CD163,CD36,MS4A6A",Macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,macrophage
+1470,Lung,3,1.0,"KIT,CD69,TPSB2,FCER1A,TPSAB1,HDC",Mast Cell,mast cell,CL:0000097,granulocyte,mast cell,CL:0000097,mast cell
+1471,Lung,3,1.0,"ACTA2,CSPG4,ANPEP,MCAM,PDGFRB,DES,PDGFRB,ACTA2,MYO1B",Pericyte,pericyte,CL:0000669,pericyte,pericyte,CL:0000669,pericyte
+1472,Lung,3,1.0,"MYOCD,GUCY1A3,SMTN,DES,PALLD,MYH11,ACTG2,GUCY1B3,MYL9,TAGLN,ACTN1,CNN1,ACTA2,VCL",Smooth Muscle,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1473,Lung,3,1.0,"NKG7,CD3G,CD69,PTPRC,TRBC1,CD247,SKAP1,TRAC,THEMIS,IL7R,CD96,CD3E,CD3D",T cell,T cell,CL:0000084,t/nk cell,t cell,CL:0000084,T cell
+1474,Lung,3,1.0,"PECAM1,CLDN5,NOSTRIN,CD300LG,VWF,PTPRB,EPHB4,RAMP3,LDB2,BACE2",Vascular Endothelial,endothelial cell of vascular tree,CL:0002139,endothelial cell,endothelial cell,CL:0000115,endothelial cell
+1475,Lung,3,1.0,"PGC,SFTPB,SFTPA1,SFTA2,SFTPA2,MUC1,HOPX,NAPSA,SFTPD,SLC34A2",type ii pneumocyte,type II pneumocyte,CL:0002063,epithelial cell,pulmonary alveolar type 2 cell,CL:0002063,alveolar type II cell
+1476,Lung,3,1.0,"MGAM,MTND5P32,MMP25,FCGR3B,IL1R2,OLAH,CD177,CXCR2,PROK2,S100A12",neutrophil,neutrophil,CL:0000775,granulocyte,neutrophil,CL:0000775,nonclassical monocyte
+1477,Lung,3,1.0,"IL32,CD2,TRBC2,IL7R,CD69,CD3D,CD3E,TRAC,CXCR4,CD3G","cd4-positive, alpha-beta t cell","CD4-positive, alpha-beta T cell",CL:0000624,t/nk cell,t cell,CL:0000084,T cell
+1478,Lung,3,1.0,"CCL5,CD3E,NKG7,IL32,CD3D,GZMA,CCL4,CD2,KLRD1,GNLY","cd8-positive, alpha-beta t cell","CD8-positive, alpha-beta T cell",CL:0000625,t/nk cell,cytotoxic t cell,CL:0000910,immune_cell
+1479,Lung,3,1.0,"GZMA,KLRF1,PRF1,GNLY,KLRD1,CST7,FGFBP2,GZMB,CD247,KLRB1",nk cell,natural killer cell,CL:0000623,t/nk cell,natural killer cell,CL:0000623,natural killer cell
+1480,Lung,3,1.0,"PLVAP,SELE,ZNF385D,ADAMTS4,NEURL1B,RBP5,EXOC3L2,CYTL1,CCL14,POSTN",bronchial vessel endothelial cell,,,endothelial cell,endothelial cell,CL:0000115,cell type unknown
+1481,Lung,3,1.0,"JPH2,ADRA2C,AC100803.2,ACTG2,DES,CNN1,HSPB6,FOXC2,CCN5,MYH11",smooth muscle cell,smooth muscle cell,CL:0000192,muscle cell,smooth muscle cell,CL:0000192,smooth muscle cell
+1482,Lung,3,1.0,"C1R,SERPINF1,PLA2G2A,MGP,C1S,DCN,IGFBP6,FBLN1,MFAP5,MFAP4",adventitial cell,adventitial cell,CL:0002503,adventitial cell,fibroblast,CL:0000057,unspecified type
+1483,Lung,3,1.0,"C1QB,VSIG4,MS4A7,ACP5,C1QA,APOE,MRC1,FABP4,APOC1,MARCO",macrophage,macrophage,CL:0000235,macrophage/monocyte,macrophage,CL:0000235,alveolar macrophage
+1484,Lung,3,1.0,"TPSB2,TPSAB1,CD69,MS4A2,CPA3,HPGDS,RHEX,KIT,VWA5A,GATA2",basophil,basophil,CL:0000767,granulocyte,mast cell,CL:0000097,mast cell
+1485,Lung,3,1.0,"S100A9,VCAN,S100A12,CD300E,MNDA,FCN1,S100A8,VSIR,COTL1,FGL2",classical monocyte,classical monocyte,CL:0000860,macrophage/monocyte,monocyte,CL:0000576,monocyte
+1486,Lung,3,1.0,"NPR3,NOS1,GJA5,DKK2,SOX17,MMRN2,SERPINE2,CXCL12,SSTR1,PTPRB",endothelial cell of artery,endothelial cell of artery,CL:1000413,endothelial cell,endothelial cell,CL:0000115,endothelial cell of artery
+1487,Lung,3,1.0,"C9orf24,C20orf85,TPPP3,TSPAN1,C1orf194,PIFO,CAPS,TMEM190,C11orf88,RSPH1",lung ciliated cell,lung ciliated cell,CL:1000271,ciliated cell,respiratory epithelial cell,CL:0002368,ciliated epithelial cell
+1488,Lung,3,1.0,"S100B,GPR183,FCGR2B,CD1E,CLEC5A,CD1C,PKIB,CLEC10A,FCER1A,CST7",dendritic cell,dendritic cell,CL:0000451,dendritic cell,dendritic cell,CL:0000451,dendritic_cell
+1489,Lung,3,1.0,"BPIFB1,SERPINB3,TFF3,TSPAN1,WFDC2,LCN2,CP,SCGB3A1,MSMB,SCGB1A1",respiratory goblet cell,respiratory goblet cell,CL:0002370,epithelial cell,goblet cell,CL:0000160,pulmonary alveolar type 2 cell
+1490,Lung,3,1.0,"KRT19,IGFBP2,KRT5,ALDH3A1,TACSTD2,KRT17,S100A2,PERP,MIR205HG,KRT15",basal cell,basal cell,CL:0000646,stem cell,epithelial cell,CL:0000066,basal epithelial cell
+1491,Lung,3,1.0,"IGHG4,CD79A,TNFRSF17,IGHG2,IGHG3,SPAG4,MZB1,JCHAIN,DERL3,IGHA2",plasma cell,plasma cell,CL:0000786,b cell,plasma cell,CL:0000786,plasma cell
+1492,Lung,3,1.0,"PAX5,CD79A,VPREB3,TNFRSF13C,MS4A1,TNFRSF13B,CD19,IGHM,BLK,LINC01781",b cell,B cell,CL:0000236,b cell,b cell,CL:0000236,B cell
+1493,Lung,3,1.0,"LPO,PRB3,PRR4,C6orf58,PRB1,ANO1,TCN1,TTYH1,LINC01829,SLC5A1",serous cell of epithelium of bronchus,serous cell of epithelium of bronchus,CL:1000331,secretory cell,glandular epithelial cell,CL:0000150,goblet cell
+1494,Lung,3,1.0,"MAFB,RNASE6,FCGR3A,CSF1R,AIF1,HCLS1,CD163,LST1,FGL2,MS4A6A",non-classical monocyte,non-classical monocyte,CL:0000875,macrophage/monocyte,macrophage,CL:0000235,nonclassical monocyte
+1495,Lung,3,1.0,"SLC6A4,FAM107A,FCN3,CALCRL,LRRC32,CLDN5,RAMP2,TIMP3,VWF,MT1M",capillary endothelial cell,capillary endothelial cell,CL:0002144,endothelial cell,endothelial cell,CL:0000115,unidentified cell type
+1496,Lung,3,1.0,"EDNRB,CA4,SPARCL1,TIMP3,RAMP2,GNG11,EMCN,CLDN5,HPGD,IL1RL1",capillary aerocyte,,,epithelial cell,pericyte,CL:0000669,endothelial cell
+1497,Lung,3,1.0,"RTKN2,NCKAP5,ITLN2,NTM,ST6GALNAC5,PKDCC,SCEL,MS4A15,MYRF,UPK3B",type i pneumocyte,type I pneumocyte,CL:0002062,epithelial cell,neuron,CL:0000540,fibroblast
+1498,Lung,3,1.0,"CLU,SPARCL1,IGFBP7,ACKR1,TIMP3,PRSS23,C7,LIFR,RAMP3,VWF",vein endothelial cell,vein endothelial cell,CL:0002543,endothelial cell,fibroblast,CL:0000057,endothelial cell
+1499,Lung,3,1.0,"MFAP4,FBLN1,C1S,MGP,RARRES2,DCN,C7,ADH1B,PTGDS,LUM",alveolar fibroblast,,,fibroblast,fibroblast,CL:0000057,fibroblast
