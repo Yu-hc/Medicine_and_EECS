@@ -5,3 +5,5 @@ MedandEECS_env/
 .DS_Store/
 score_12:2.zip
 /Users/qwer/files/developer/Medicine_and_EECS/score_12:2.zip
+*.DS_Store/
+RAG/test/
