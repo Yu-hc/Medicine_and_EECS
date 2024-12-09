@@ -1,11 +1,14 @@
 # Annotate scRNA clusters with GPT models
 
-## activate virtual environment
+## Requirements
 
-       source ./MedandEECS_env/bin/activate
-
-## or install required packages
+- Python 3
+- Required Python packages, install with the following comand
 
        pip install -r requirements.txt
-       
-## create .evn file to store api key
+    
+## API key
+
+- Set up API key with the following command
+
+       export api_key_name = api_key
