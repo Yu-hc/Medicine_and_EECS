@@ -3,7 +3,7 @@
 ## Requirements
 
 - Python 3
-- Required Python packages, install with the following comand
+- Required Python packages, install with the following command
 
        pip install -r requirements.txt
     
